@@ -58,7 +58,7 @@ def risk_summary(rows, distance_km=None):
     counts=recent["Crime_Category"].value_counts()
     top=counts.index[0] if len(counts) else "Unknown"
     mean_sev=float(recent["Offense_Severity_Index"].mean()) if "Offense_Severity_Index" in recent else 0
-    per_grid=recent["Spatial_Grid_Cell"].nunique()
+    per_grid=recent["Spatial_Grid_ID"].nunique()
     # Relative index among dataset locations; label explicitly as historical indicator.
     count=len(recent)
     score=min(100, max(0, 18 + 9*mean_sev + 2.2*np.log1p(count)))
