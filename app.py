@@ -67,7 +67,7 @@ def risk_summary(rows, distance_km=None):
 df=load_data()
 st.title("🧭 CrimeLens")
 st.caption("Area crime-pattern explorer • Kerala • Historical-data-based decision support")
-st.warning("Research prototype, not an official police system. The score is a historical indicator—not a verified probability or guarantee of future crime. Dataset coverage and reporting bias may affect results. For emergencies, contact local emergency services.")
+st.warning("Research prototype, not an official police system. The score is a historical  crime Dataset For emergencies, contact local emergency services.")
 
 with st.sidebar:
     st.header("Find an area")
@@ -208,5 +208,5 @@ else:
     y.markdown("### 📍 Use location\nUse coordinates or browser location to inspect the nearest recorded area.")
     z.markdown("### 📊 Understand patterns\nExplore recorded categories and severity indicators transparently.")
     st.markdown("### Dataset coverage")
-    st.write(f"{len(df):,} rows • {df['District'].nunique()} districts • {df['Spatial_Grid_Cell'].nunique()} spatial grid cells")
+    st.write(f"{len(df):,} rows • {df['District'].nunique()} districts • {df['Spatial_Grid_Cell'].nunique()} spatial grid id")
     st.caption("The CNN and LSTM are trained in the provided notebook. This web prototype currently presents historical-neighbourhood summaries; model artifacts can be added for a future model-backed forecast. It does not claim to predict actual individual crimes.")
