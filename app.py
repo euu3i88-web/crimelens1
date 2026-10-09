@@ -208,5 +208,5 @@ else:
     y.markdown("### 📍 Use location\nUse coordinates or browser location to inspect the nearest recorded area.")
     z.markdown("### 📊 Understand patterns\nExplore recorded categories and severity indicators transparently.")
     st.markdown("### Dataset coverage")
-    st.write(f"{len(df):,} rows • {df['District'].nunique()} districts • {df['Spatial_Grid_Cell'].nunique()} spatial grid id")
+    st.write(f"{len(df):,} rows • {df['District'].nunique()} districts • {df['Spatial_Grid_ID'].nunique()} spatial grid id")
     st.caption("The CNN and LSTM are trained in the provided notebook. This web prototype currently presents historical-neighbourhood summaries; model artifacts can be added for a future model-backed forecast. It does not claim to predict actual individual crimes.")
