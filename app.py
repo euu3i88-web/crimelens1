@@ -38,7 +38,7 @@ def haversine(lat1, lon1, lat2, lon2):
 def area_lookup(df, query):
     q=query.strip().lower()
     if not q: return None, "Enter a place, district, or grid cell."
-    for col in ["Spatial_Grid_Cell","District","Location_Type"]:
+    for col in ["Spatial_Grid_ID","District","Location_Type"]:
         matches=df[df[col].astype(str).str.lower().str.contains(q, regex=False, na=False)]
         if not matches.empty:
             return matches, f"Matched dataset field: {col}"
@@ -139,7 +139,7 @@ def model_forecast(rows):
           "Month_sin":float(np.sin(2*np.pi*month/12)), "Month_cos":float(np.cos(2*np.pi*month/12)),
           "DayOfWeek":weekday, "District_code":dm.get(str(sample.get("District","")),0),
           "Location_code":lm.get(str(sample.get("Location_Type","")),0),
-          "Grid_code":gm.get(str(sample.get("Spatial_Grid_Cell","")),0)
+          "Grid_code":gm.get(str(sample.get("Spatial_Grid_ID","")),0)
         }
         x=np.array([[feat[k] for k in meta["features"]]],dtype=float)
         x=(x-np.array(meta["scaler_mean"])) / np.array(meta["scaler_scale"])
@@ -153,7 +153,7 @@ def model_forecast(rows):
         hourly_path=MODEL_DIR/"hourly_counts.csv"
         if hourly_path.exists():
             h=pd.read_csv(hourly_path)
-            grid=str(sample.get("Spatial_Grid_Cell",""))
+            grid=str(sample.get("Spatial_Grid_ID",""))
             g=h[h["Spatial_Grid_Cell"].astype(str)==grid].sort_values("Timestamp")
             if len(g)>=int(meta.get("sequence_length",24)):
                 seq=g["count"].tail(int(meta["sequence_length"])).to_numpy(dtype=float)
@@ -198,7 +198,7 @@ if res:
         show=rows.sort_values("_distance_km").head(12).copy()
         if "_distance_km" in show:
             show["Approx. distance (km)"]=show["_distance_km"].round(2)
-        cols=[c for c in ["Timestamp","District","Spatial_Grid_Cell","Location_Type","Crime_Category","Offense_Severity_Index","Approx. distance (km)"] if c in show.columns]
+        cols=[c for c in ["Timestamp","District","Spatial_Grid_ID","Location_Type","Crime_Category","Offense_Severity_Index","Approx. distance (km)"] if c in show.columns]
         st.dataframe(show[cols], use_container_width=True, hide_index=True)
         st.caption("The closest area is selected from the uploaded dataset's coordinates. A nearby estimate may be less reliable when the closest records are far away.")
 else:
