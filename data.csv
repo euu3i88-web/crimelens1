@@ -1,0 +1,801 @@
+Timestamp,Year,Month,Hour,DayOfWeek,District_Code,District,Latitude,Longitude,Spatial_Grid_ID,Location_Type,Crime_Category,Offense_Severity,Case_Status
+2020-01-01 00:00:00,2020,1,0,3,5,Thrissur,10.7307239,76.287457,GRID_1106,Commercial Hub,Traffic-related Accident,3,Under investigation
+2020-01-01 06:00:00,2020,1,6,3,3,Kozhikode,11.2776288,75.8328058,GRID_225,Industrial Zone,Property Damage,1,Charge Sheeted
+2020-01-01 13:00:00,2020,1,13,3,2,Kannur,11.9108957,75.4483733,GRID_494,Highway/Expressway,Property Damage,1,Charge Sheeted
+2020-01-01 19:00:00,2020,1,19,3,1,Ernakulam,10.1094987,76.3710682,GRID_916,Public Transit Hub,Cyber Crime,4,Closed
+2020-01-02 02:00:00,2020,1,2,4,4,Palakkad,10.7650839,76.3781181,GRID_980,Industrial Zone,Traffic-related Accident,3,Under investigation
+2020-01-02 08:00:00,2020,1,8,4,4,Palakkad,10.8184841,76.4942237,GRID_675,Educational Campus,Property Damage,4,Under investigation
+2020-01-02 15:00:00,2020,1,15,4,4,Palakkad,10.7324663,76.5073347,GRID_424,Highway/Expressway,Traffic-related Accident,2,Under investigation
+2020-01-02 21:00:00,2020,1,21,4,3,Kozhikode,11.3069896,75.8222606,GRID_1029,Highway/Expressway,Property Damage,3,Charge Sheeted
+2020-01-03 04:00:00,2020,1,4,5,1,Ernakulam,10.0546041,76.3078803,GRID_932,Educational Campus,Traffic-related Accident,3,Closed
+2020-01-03 10:00:00,2020,1,10,5,2,Kannur,11.8665714,75.4002237,GRID_1154,Public Transit Hub,Theft,2,Under investigation
+2020-01-03 17:00:00,2020,1,17,5,4,Palakkad,10.8002853,76.3607411,GRID_936,Residential Area,Traffic-related Accident,2,Charge Sheeted
+2020-01-03 23:00:00,2020,1,23,5,3,Kozhikode,11.2533499,75.8077802,GRID_1025,Educational Campus,Traffic-related Accident,3,Under investigation
+2020-01-04 06:00:00,2020,1,6,6,2,Kannur,11.9244875,75.4703827,GRID_542,Educational Campus,Cyber Crime,2,Charge Sheeted
+2020-01-04 12:00:00,2020,1,12,6,4,Palakkad,10.7546346,76.4155125,GRID_174,Educational Campus,Theft,2,Closed
+2020-01-04 19:00:00,2020,1,19,6,4,Palakkad,10.7937501,76.4323549,GRID_656,Highway/Expressway,Narcotics/NDPS,4,Under investigation
+2020-01-05 01:00:00,2020,1,1,7,4,Palakkad,10.7424605,76.4323903,GRID_462,Commercial Hub,Cyber Crime,5,Charge Sheeted
+2020-01-05 08:00:00,2020,1,8,7,5,Thrissur,10.6740857,76.2917497,GRID_547,Industrial Zone,Narcotics/NDPS,2,Closed
+2020-01-05 14:00:00,2020,1,14,7,1,Ernakulam,10.0397388,76.3102711,GRID_361,Residential Area,Property Damage,2,Closed
+2020-01-05 21:00:00,2020,1,21,7,5,Thrissur,10.7514846,76.3252309,GRID_224,Public Transit Hub,Narcotics/NDPS,1,Charge Sheeted
+2020-01-06 03:00:00,2020,1,3,1,5,Thrissur,10.7180588,76.3738076,GRID_1010,Public Transit Hub,Traffic-related Accident,3,Charge Sheeted
+2020-01-06 10:00:00,2020,1,10,1,1,Ernakulam,9.9620951,76.3396245,GRID_344,Industrial Zone,Narcotics/NDPS,2,Under investigation
+2020-01-06 16:00:00,2020,1,16,1,4,Palakkad,10.7378036,76.5137713,GRID_641,Commercial Hub,Cyber Crime,5,Charge Sheeted
+2020-01-06 23:00:00,2020,1,23,1,5,Thrissur,10.6748663,76.3346323,GRID_584,Educational Campus,Cyber Crime,2,Closed
+2020-01-07 05:00:00,2020,1,5,2,5,Thrissur,10.668535,76.4394374,GRID_221,Residential Area,Narcotics/NDPS,2,Charge Sheeted
+2020-01-07 12:00:00,2020,1,12,2,5,Thrissur,10.7102195,76.3671693,GRID_224,Public Transit Hub,Cyber Crime,3,Under investigation
+2020-01-07 18:00:00,2020,1,18,2,2,Kannur,11.8680492,75.4499953,GRID_269,Industrial Zone,Cyber Crime,4,Under investigation
+2020-01-08 01:00:00,2020,1,1,3,4,Palakkad,10.7409906,76.5036887,GRID_223,Recreational Park,Narcotics/NDPS,2,Under investigation
+2020-01-08 07:00:00,2020,1,7,3,1,Ernakulam,9.9928223,76.2828825,GRID_1158,Industrial Zone,Theft,2,Under investigation
+2020-01-08 14:00:00,2020,1,14,3,1,Ernakulam,9.9658479,76.316648,GRID_745,Public Transit Hub,Theft,5,Under investigation
+2020-01-08 20:00:00,2020,1,20,3,4,Palakkad,10.7764841,76.3705134,GRID_885,Educational Campus,Property Damage,1,Charge Sheeted
+2020-01-09 03:00:00,2020,1,3,4,1,Ernakulam,10.0840844,76.3143947,GRID_300,Recreational Park,Cyber Crime,4,Under investigation
+2020-01-09 09:00:00,2020,1,9,4,4,Palakkad,10.772439,76.430522,GRID_468,Commercial Hub,Narcotics/NDPS,1,Under investigation
+2020-01-09 16:00:00,2020,1,16,4,4,Palakkad,10.7600763,76.4495425,GRID_896,Residential Area,Cyber Crime,4,Charge Sheeted
+2020-01-09 22:00:00,2020,1,22,4,3,Kozhikode,11.235524,75.7818314,GRID_176,Commercial Hub,Traffic-related Accident,3,Under investigation
+2020-01-10 05:00:00,2020,1,5,5,3,Kozhikode,11.3061786,75.8735339,GRID_158,Commercial Hub,Cyber Crime,2,Under investigation
+2020-01-10 11:00:00,2020,1,11,5,2,Kannur,11.9047971,75.3924894,GRID_530,Industrial Zone,Cyber Crime,4,Under investigation
+2020-01-10 18:00:00,2020,1,18,5,5,Thrissur,10.7244,76.3335722,GRID_737,Residential Area,Theft,1,Under investigation
+2020-01-11 00:00:00,2020,1,0,6,4,Palakkad,10.7225386,76.3849844,GRID_208,Residential Area,Narcotics/NDPS,2,Charge Sheeted
+2020-01-11 07:00:00,2020,1,7,6,1,Ernakulam,10.0745556,76.3390709,GRID_1107,Public Transit Hub,Cyber Crime,3,Under investigation
+2020-01-11 13:00:00,2020,1,13,6,5,Thrissur,10.6627096,76.299955,GRID_167,Public Transit Hub,Theft,2,Charge Sheeted
+2020-01-11 20:00:00,2020,1,20,6,4,Palakkad,10.7431075,76.4675028,GRID_1192,Residential Area,Property Damage,3,Closed
+2020-01-12 02:00:00,2020,1,2,7,5,Thrissur,10.6619711,76.2787395,GRID_404,Recreational Park,Theft,1,Charge Sheeted
+2020-01-12 09:00:00,2020,1,9,7,4,Palakkad,10.7999916,76.3885671,GRID_773,Highway/Expressway,Theft,1,Charge Sheeted
+2020-01-12 15:00:00,2020,1,15,7,3,Kozhikode,11.2852746,75.7885819,GRID_464,Public Transit Hub,Theft,1,Closed
+2020-01-12 22:00:00,2020,1,22,7,5,Thrissur,10.6699441,76.303771,GRID_920,Highway/Expressway,Cyber Crime,1,Charge Sheeted
+2020-01-13 04:00:00,2020,1,4,1,1,Ernakulam,10.0755627,76.3626836,GRID_442,Industrial Zone,Cyber Crime,2,Under investigation
+2020-01-13 11:00:00,2020,1,11,1,5,Thrissur,10.743022,76.331493,GRID_1046,Recreational Park,Property Damage,4,Under investigation
+2020-01-13 17:00:00,2020,1,17,1,1,Ernakulam,10.0668936,76.2845981,GRID_998,Residential Area,Traffic-related Accident,5,Closed
+2020-01-14 00:00:00,2020,1,0,2,1,Ernakulam,10.0069036,76.3675603,GRID_861,Recreational Park,Traffic-related Accident,4,Under investigation
+2020-01-14 06:00:00,2020,1,6,2,4,Palakkad,10.7213002,76.3736814,GRID_440,Public Transit Hub,Traffic-related Accident,1,Under investigation
+2020-01-14 13:00:00,2020,1,13,2,3,Kozhikode,11.2407886,75.7631839,GRID_1041,Commercial Hub,Property Damage,2,Charge Sheeted
+2020-01-14 19:00:00,2020,1,19,2,2,Kannur,11.8817723,75.429965,GRID_482,Industrial Zone,Traffic-related Accident,1,Closed
+2020-01-15 02:00:00,2020,1,2,3,3,Kozhikode,11.2621425,75.8671206,GRID_1103,Residential Area,Traffic-related Accident,2,Under investigation
+2020-01-15 08:00:00,2020,1,8,3,3,Kozhikode,11.3017444,75.8010181,GRID_399,Educational Campus,Theft,3,Charge Sheeted
+2020-01-15 15:00:00,2020,1,15,3,1,Ernakulam,10.0015077,76.3055631,GRID_238,Industrial Zone,Cyber Crime,1,Under investigation
+2020-01-15 21:00:00,2020,1,21,3,3,Kozhikode,11.2790295,75.7921676,GRID_458,Highway/Expressway,Cyber Crime,2,Charge Sheeted
+2020-01-16 04:00:00,2020,1,4,4,4,Palakkad,10.7824149,76.4255059,GRID_935,Recreational Park,Theft,5,Under investigation
+2020-01-16 10:00:00,2020,1,10,4,4,Palakkad,10.7752047,76.4297802,GRID_582,Residential Area,Theft,2,Under investigation
+2020-01-16 17:00:00,2020,1,17,4,4,Palakkad,10.7494466,76.5117525,GRID_1008,Industrial Zone,Theft,2,Closed
+2020-01-16 23:00:00,2020,1,23,4,5,Thrissur,10.7363606,76.2852204,GRID_965,Recreational Park,Cyber Crime,1,Charge Sheeted
+2020-01-17 06:00:00,2020,1,6,5,5,Thrissur,10.7468468,76.3477376,GRID_238,Residential Area,Traffic-related Accident,2,Charge Sheeted
+2020-01-17 12:00:00,2020,1,12,5,5,Thrissur,10.7494552,76.4039739,GRID_1095,Public Transit Hub,Theft,4,Charge Sheeted
+2020-01-17 19:00:00,2020,1,19,5,2,Kannur,11.9110256,75.3626963,GRID_534,Industrial Zone,Property Damage,1,Under investigation
+2020-01-18 01:00:00,2020,1,1,6,5,Thrissur,10.6868677,76.3574942,GRID_608,Public Transit Hub,Theft,2,Charge Sheeted
+2020-01-18 08:00:00,2020,1,8,6,5,Thrissur,10.7233478,76.3064198,GRID_372,Industrial Zone,Narcotics/NDPS,1,Under investigation
+2020-01-18 14:00:00,2020,1,14,6,1,Ernakulam,9.982297,76.3601916,GRID_203,Public Transit Hub,Theft,2,Under investigation
+2020-01-18 21:00:00,2020,1,21,6,4,Palakkad,10.8184402,76.4441104,GRID_861,Recreational Park,Cyber Crime,1,Under investigation
+2020-01-19 03:00:00,2020,1,3,7,2,Kannur,11.8806015,75.3926769,GRID_886,Educational Campus,Theft,4,Charge Sheeted
+2020-01-19 10:00:00,2020,1,10,7,4,Palakkad,10.7218391,76.5062878,GRID_264,Industrial Zone,Narcotics/NDPS,4,Closed
+2020-01-19 16:00:00,2020,1,16,7,3,Kozhikode,11.2317751,75.829182,GRID_1098,Industrial Zone,Property Damage,4,Closed
+2020-01-19 23:00:00,2020,1,23,7,2,Kannur,11.8928866,75.4265014,GRID_619,Public Transit Hub,Traffic-related Accident,2,Charge Sheeted
+2020-01-20 05:00:00,2020,1,5,1,4,Palakkad,10.785142,76.4927587,GRID_616,Residential Area,Theft,4,Under investigation
+2020-01-20 12:00:00,2020,1,12,1,4,Palakkad,10.7406421,76.3617593,GRID_756,Industrial Zone,Narcotics/NDPS,3,Charge Sheeted
+2020-01-20 18:00:00,2020,1,18,1,2,Kannur,11.8764263,75.4680022,GRID_712,Public Transit Hub,Narcotics/NDPS,2,Closed
+2020-01-21 01:00:00,2020,1,1,2,2,Kannur,11.9648668,75.4316896,GRID_263,Commercial Hub,Property Damage,3,Under investigation
+2020-01-21 07:00:00,2020,1,7,2,2,Kannur,11.932062,75.4398044,GRID_163,Public Transit Hub,Cyber Crime,1,Closed
+2020-01-21 14:00:00,2020,1,14,2,2,Kannur,11.8810446,75.4697294,GRID_366,Recreational Park,Theft,1,Under investigation
+2020-01-21 20:00:00,2020,1,20,2,4,Palakkad,10.7618771,76.4213022,GRID_345,Educational Campus,Narcotics/NDPS,3,Closed
+2020-01-22 03:00:00,2020,1,3,3,5,Thrissur,10.7118918,76.2684539,GRID_494,Commercial Hub,Property Damage,2,Closed
+2020-01-22 09:00:00,2020,1,9,3,4,Palakkad,10.7366283,76.4780854,GRID_575,Recreational Park,Traffic-related Accident,3,Closed
+2020-01-22 16:00:00,2020,1,16,3,3,Kozhikode,11.2282799,75.8323783,GRID_1076,Recreational Park,Narcotics/NDPS,2,Under investigation
+2020-01-22 22:00:00,2020,1,22,3,1,Ernakulam,9.9992559,76.3067155,GRID_1143,Recreational Park,Property Damage,4,Under investigation
+2020-01-23 05:00:00,2020,1,5,4,5,Thrissur,10.6888694,76.3240211,GRID_657,Residential Area,Cyber Crime,5,Under investigation
+2020-01-23 11:00:00,2020,1,11,4,4,Palakkad,10.7919046,76.4075395,GRID_1117,Recreational Park,Cyber Crime,4,Under investigation
+2020-01-23 18:00:00,2020,1,18,4,5,Thrissur,10.7166405,76.3456891,GRID_982,Residential Area,Narcotics/NDPS,2,Under investigation
+2020-01-24 00:00:00,2020,1,0,5,5,Thrissur,10.7263671,76.4286294,GRID_246,Recreational Park,Narcotics/NDPS,1,Charge Sheeted
+2020-01-24 07:00:00,2020,1,7,5,2,Kannur,11.9479087,75.3857928,GRID_765,Highway/Expressway,Theft,2,Charge Sheeted
+2020-01-24 13:00:00,2020,1,13,5,1,Ernakulam,9.9649893,76.2914717,GRID_719,Commercial Hub,Property Damage,1,Charge Sheeted
+2020-01-24 20:00:00,2020,1,20,5,3,Kozhikode,11.2795078,75.7661711,GRID_919,Highway/Expressway,Narcotics/NDPS,1,Charge Sheeted
+2020-01-25 02:00:00,2020,1,2,6,5,Thrissur,10.7096366,76.3674317,GRID_963,Recreational Park,Theft,3,Under investigation
+2020-01-25 09:00:00,2020,1,9,6,4,Palakkad,10.7534244,76.483346,GRID_681,Commercial Hub,Theft,3,Closed
+2020-01-25 15:00:00,2020,1,15,6,2,Kannur,11.8727918,75.3690165,GRID_1122,Commercial Hub,Narcotics/NDPS,5,Under investigation
+2020-01-25 22:00:00,2020,1,22,6,2,Kannur,11.9473827,75.419459,GRID_794,Industrial Zone,Cyber Crime,2,Charge Sheeted
+2020-01-26 04:00:00,2020,1,4,7,1,Ernakulam,10.0701444,76.3121793,GRID_506,Educational Campus,Property Damage,2,Charge Sheeted
+2020-01-26 11:00:00,2020,1,11,7,2,Kannur,11.8895682,75.4582923,GRID_498,Highway/Expressway,Property Damage,1,Closed
+2020-01-26 17:00:00,2020,1,17,7,5,Thrissur,10.7399416,76.3850454,GRID_814,Educational Campus,Cyber Crime,5,Under investigation
+2020-01-27 00:00:00,2020,1,0,1,1,Ernakulam,10.0035432,76.3308277,GRID_803,Commercial Hub,Narcotics/NDPS,4,Charge Sheeted
+2020-01-27 06:00:00,2020,1,6,1,5,Thrissur,10.6960974,76.2764848,GRID_860,Residential Area,Property Damage,4,Charge Sheeted
+2020-01-27 13:00:00,2020,1,13,1,4,Palakkad,10.8117314,76.381891,GRID_598,Commercial Hub,Narcotics/NDPS,5,Under investigation
+2020-01-27 19:00:00,2020,1,19,1,4,Palakkad,10.8150237,76.4313609,GRID_1073,Educational Campus,Narcotics/NDPS,3,Charge Sheeted
+2020-01-28 02:00:00,2020,1,2,2,4,Palakkad,10.7385133,76.4467042,GRID_181,Highway/Expressway,Theft,2,Closed
+2020-01-28 08:00:00,2020,1,8,2,1,Ernakulam,10.0996713,76.347867,GRID_703,Recreational Park,Cyber Crime,2,Closed
+2020-01-28 15:00:00,2020,1,15,2,5,Thrissur,10.7406561,76.378581,GRID_871,Industrial Zone,Narcotics/NDPS,3,Under investigation
+2020-01-28 21:00:00,2020,1,21,2,1,Ernakulam,10.0707643,76.3619035,GRID_1002,Industrial Zone,Traffic-related Accident,2,Under investigation
+2020-01-29 04:00:00,2020,1,4,3,3,Kozhikode,11.2449668,75.818731,GRID_464,Industrial Zone,Cyber Crime,2,Under investigation
+2020-01-29 10:00:00,2020,1,10,3,4,Palakkad,10.7421209,76.5180269,GRID_262,Recreational Park,Property Damage,5,Under investigation
+2020-01-29 17:00:00,2020,1,17,3,5,Thrissur,10.7544059,76.2670968,GRID_1171,Industrial Zone,Theft,5,Under investigation
+2020-01-29 23:00:00,2020,1,23,3,2,Kannur,11.944669,75.4710298,GRID_610,Highway/Expressway,Property Damage,4,Under investigation
+2020-01-30 06:00:00,2020,1,6,4,4,Palakkad,10.7380575,76.4508712,GRID_215,Recreational Park,Property Damage,4,Closed
+2020-01-30 12:00:00,2020,1,12,4,4,Palakkad,10.8115488,76.3654314,GRID_1040,Industrial Zone,Cyber Crime,3,Closed
+2020-01-30 19:00:00,2020,1,19,4,5,Thrissur,10.729742,76.3135228,GRID_436,Recreational Park,Property Damage,1,Under investigation
+2020-01-31 01:00:00,2020,1,1,5,4,Palakkad,10.8124396,76.5153693,GRID_980,Educational Campus,Narcotics/NDPS,1,Under investigation
+2020-01-31 08:00:00,2020,1,8,5,3,Kozhikode,11.3144266,75.8169057,GRID_836,Highway/Expressway,Property Damage,3,Charge Sheeted
+2020-01-31 14:00:00,2020,1,14,5,2,Kannur,11.9634451,75.4613459,GRID_939,Public Transit Hub,Theft,3,Under investigation
+2020-01-31 21:00:00,2020,1,21,5,1,Ernakulam,10.0110561,76.3594699,GRID_246,Residential Area,Theft,1,Charge Sheeted
+2020-02-01 03:00:00,2020,2,3,6,3,Kozhikode,11.2237008,75.8315524,GRID_542,Industrial Zone,Traffic-related Accident,5,Charge Sheeted
+2020-02-01 10:00:00,2020,2,10,6,2,Kannur,11.8876011,75.374468,GRID_936,Residential Area,Theft,1,Closed
+2020-02-01 16:00:00,2020,2,16,6,4,Palakkad,10.7276953,76.4714062,GRID_1136,Recreational Park,Property Damage,2,Charge Sheeted
+2020-02-01 23:00:00,2020,2,23,6,3,Kozhikode,11.2539875,75.846972,GRID_1042,Residential Area,Theft,3,Charge Sheeted
+2020-02-02 05:00:00,2020,2,5,7,1,Ernakulam,9.970457,76.2978348,GRID_386,Highway/Expressway,Cyber Crime,1,Charge Sheeted
+2020-02-02 12:00:00,2020,2,12,7,2,Kannur,11.924739,75.4548868,GRID_819,Highway/Expressway,Theft,1,Under investigation
+2020-02-02 18:00:00,2020,2,18,7,3,Kozhikode,11.2518753,75.835107,GRID_579,Commercial Hub,Narcotics/NDPS,2,Charge Sheeted
+2020-02-03 01:00:00,2020,2,1,1,5,Thrissur,10.7485978,76.3708554,GRID_121,Industrial Zone,Cyber Crime,4,Charge Sheeted
+2020-02-03 07:00:00,2020,2,7,1,4,Palakkad,10.7432959,76.3639041,GRID_782,Commercial Hub,Traffic-related Accident,2,Under investigation
+2020-02-03 14:00:00,2020,2,14,1,4,Palakkad,10.8070099,76.3634031,GRID_1005,Residential Area,Narcotics/NDPS,3,Under investigation
+2020-02-03 20:00:00,2020,2,20,1,5,Thrissur,10.7474702,76.3552087,GRID_419,Public Transit Hub,Property Damage,3,Under investigation
+2020-02-04 03:00:00,2020,2,3,2,2,Kannur,11.9726881,75.455854,GRID_225,Commercial Hub,Property Damage,1,Closed
+2020-02-04 09:00:00,2020,2,9,2,3,Kozhikode,11.3197934,75.8020854,GRID_376,Commercial Hub,Property Damage,5,Under investigation
+2020-02-04 16:00:00,2020,2,16,2,4,Palakkad,10.7967188,76.4243089,GRID_293,Highway/Expressway,Narcotics/NDPS,1,Under investigation
+2020-02-04 22:00:00,2020,2,22,2,1,Ernakulam,10.0367801,76.3353007,GRID_795,Public Transit Hub,Narcotics/NDPS,5,Under investigation
+2020-02-05 05:00:00,2020,2,5,3,5,Thrissur,10.7473677,76.437135,GRID_156,Recreational Park,Narcotics/NDPS,3,Charge Sheeted
+2020-02-05 11:00:00,2020,2,11,3,4,Palakkad,10.7968273,76.4268427,GRID_118,Residential Area,Cyber Crime,5,Under investigation
+2020-02-05 18:00:00,2020,2,18,3,4,Palakkad,10.7621357,76.4780132,GRID_363,Commercial Hub,Cyber Crime,1,Closed
+2020-02-06 00:00:00,2020,2,0,4,5,Thrissur,10.6838777,76.2798853,GRID_893,Public Transit Hub,Property Damage,2,Closed
+2020-02-06 07:00:00,2020,2,7,4,3,Kozhikode,11.2554622,75.7944687,GRID_212,Industrial Zone,Theft,1,Charge Sheeted
+2020-02-06 13:00:00,2020,2,13,4,5,Thrissur,10.6896308,76.3020494,GRID_641,Public Transit Hub,Property Damage,1,Charge Sheeted
+2020-02-06 20:00:00,2020,2,20,4,1,Ernakulam,9.9667349,76.2621449,GRID_746,Residential Area,Traffic-related Accident,3,Under investigation
+2020-02-07 02:00:00,2020,2,2,5,2,Kannur,11.9785267,75.4113328,GRID_678,Public Transit Hub,Cyber Crime,2,Under investigation
+2020-02-07 09:00:00,2020,2,9,5,5,Thrissur,10.6984327,76.3823365,GRID_1188,Public Transit Hub,Narcotics/NDPS,3,Charge Sheeted
+2020-02-07 15:00:00,2020,2,15,5,3,Kozhikode,11.2418254,75.8739953,GRID_124,Public Transit Hub,Cyber Crime,1,Under investigation
+2020-02-07 22:00:00,2020,2,22,5,3,Kozhikode,11.2986345,75.7707293,GRID_100,Industrial Zone,Narcotics/NDPS,2,Under investigation
+2020-02-08 04:00:00,2020,2,4,6,5,Thrissur,10.7017581,76.4182413,GRID_1010,Commercial Hub,Traffic-related Accident,4,Charge Sheeted
+2020-02-08 11:00:00,2020,2,11,6,5,Thrissur,10.7544732,76.3441323,GRID_240,Residential Area,Traffic-related Accident,2,Under investigation
+2020-02-08 17:00:00,2020,2,17,6,5,Thrissur,10.7213411,76.2900661,GRID_747,Industrial Zone,Cyber Crime,3,Closed
+2020-02-09 00:00:00,2020,2,0,7,5,Thrissur,10.7591169,76.3017009,GRID_287,Public Transit Hub,Narcotics/NDPS,3,Under investigation
+2020-02-09 06:00:00,2020,2,6,7,4,Palakkad,10.8142732,76.4639435,GRID_300,Public Transit Hub,Traffic-related Accident,4,Charge Sheeted
+2020-02-09 13:00:00,2020,2,13,7,1,Ernakulam,10.0572379,76.3215226,GRID_356,Commercial Hub,Property Damage,2,Charge Sheeted
+2020-02-09 19:00:00,2020,2,19,7,1,Ernakulam,9.9969072,76.2811834,GRID_646,Residential Area,Property Damage,3,Charge Sheeted
+2020-02-10 02:00:00,2020,2,2,1,4,Palakkad,10.7420486,76.3898301,GRID_293,Highway/Expressway,Narcotics/NDPS,5,Under investigation
+2020-02-10 08:00:00,2020,2,8,1,5,Thrissur,10.7379584,76.3230225,GRID_802,Industrial Zone,Cyber Crime,3,Charge Sheeted
+2020-02-10 15:00:00,2020,2,15,1,3,Kozhikode,11.2257843,75.8762923,GRID_901,Commercial Hub,Traffic-related Accident,2,Closed
+2020-02-10 21:00:00,2020,2,21,1,4,Palakkad,10.8083786,76.5084404,GRID_1041,Residential Area,Cyber Crime,3,Charge Sheeted
+2020-02-11 04:00:00,2020,2,4,2,4,Palakkad,10.8194908,76.3878232,GRID_513,Industrial Zone,Property Damage,3,Under investigation
+2020-02-11 10:00:00,2020,2,10,2,5,Thrissur,10.6996242,76.3964829,GRID_1198,Public Transit Hub,Traffic-related Accident,3,Charge Sheeted
+2020-02-11 17:00:00,2020,2,17,2,3,Kozhikode,11.2896021,75.7784675,GRID_1009,Residential Area,Cyber Crime,1,Charge Sheeted
+2020-02-11 23:00:00,2020,2,23,2,4,Palakkad,10.8015833,76.3959105,GRID_287,Residential Area,Theft,1,Charge Sheeted
+2020-02-12 06:00:00,2020,2,6,3,1,Ernakulam,9.9958108,76.3244369,GRID_144,Recreational Park,Narcotics/NDPS,4,Closed
+2020-02-12 12:00:00,2020,2,12,3,2,Kannur,11.9311528,75.4296103,GRID_182,Residential Area,Narcotics/NDPS,2,Under investigation
+2020-02-12 19:00:00,2020,2,19,3,4,Palakkad,10.7291487,76.5003937,GRID_457,Highway/Expressway,Theft,3,Charge Sheeted
+2020-02-13 01:00:00,2020,2,1,4,2,Kannur,11.891872,75.3755418,GRID_1189,Residential Area,Property Damage,2,Charge Sheeted
+2020-02-13 08:00:00,2020,2,8,4,5,Thrissur,10.7488748,76.4320173,GRID_1035,Highway/Expressway,Traffic-related Accident,3,Charge Sheeted
+2020-02-13 14:00:00,2020,2,14,4,1,Ernakulam,10.0979404,76.3571419,GRID_474,Public Transit Hub,Narcotics/NDPS,1,Closed
+2020-02-13 21:00:00,2020,2,21,4,1,Ernakulam,10.0648387,76.3261029,GRID_261,Highway/Expressway,Theft,1,Closed
+2020-02-14 03:00:00,2020,2,3,5,1,Ernakulam,9.9739179,76.3090144,GRID_421,Industrial Zone,Theft,5,Charge Sheeted
+2020-02-14 10:00:00,2020,2,10,5,4,Palakkad,10.7572689,76.4015606,GRID_549,Public Transit Hub,Property Damage,4,Under investigation
+2020-02-14 16:00:00,2020,2,16,5,2,Kannur,11.9468104,75.4195051,GRID_1136,Public Transit Hub,Property Damage,3,Under investigation
+2020-02-14 23:00:00,2020,2,23,5,5,Thrissur,10.6681046,76.299633,GRID_283,Highway/Expressway,Cyber Crime,2,Charge Sheeted
+2020-02-15 05:00:00,2020,2,5,6,4,Palakkad,10.7883259,76.3721809,GRID_210,Commercial Hub,Narcotics/NDPS,3,Closed
+2020-02-15 12:00:00,2020,2,12,6,4,Palakkad,10.8051207,76.4392234,GRID_607,Educational Campus,Cyber Crime,3,Under investigation
+2020-02-15 18:00:00,2020,2,18,6,1,Ernakulam,10.0368939,76.3310889,GRID_394,Residential Area,Theft,3,Under investigation
+2020-02-16 01:00:00,2020,2,1,7,1,Ernakulam,10.091949,76.3017371,GRID_1003,Recreational Park,Traffic-related Accident,1,Under investigation
+2020-02-16 07:00:00,2020,2,7,7,4,Palakkad,10.7878016,76.4505171,GRID_1073,Educational Campus,Traffic-related Accident,3,Closed
+2020-02-16 14:00:00,2020,2,14,7,1,Ernakulam,10.0027245,76.3654356,GRID_731,Residential Area,Property Damage,4,Under investigation
+2020-02-16 20:00:00,2020,2,20,7,4,Palakkad,10.7997426,76.4653523,GRID_1150,Residential Area,Traffic-related Accident,5,Charge Sheeted
+2020-02-17 03:00:00,2020,2,3,1,1,Ernakulam,10.0960931,76.3640753,GRID_832,Public Transit Hub,Traffic-related Accident,1,Charge Sheeted
+2020-02-17 09:00:00,2020,2,9,1,4,Palakkad,10.7908363,76.4939221,GRID_420,Residential Area,Traffic-related Accident,3,Closed
+2020-02-17 16:00:00,2020,2,16,1,1,Ernakulam,10.0715954,76.3416169,GRID_1012,Recreational Park,Theft,3,Charge Sheeted
+2020-02-17 22:00:00,2020,2,22,1,5,Thrissur,10.7218611,76.395489,GRID_536,Residential Area,Traffic-related Accident,2,Charge Sheeted
+2020-02-18 05:00:00,2020,2,5,2,3,Kozhikode,11.2358605,75.8657045,GRID_880,Highway/Expressway,Traffic-related Accident,1,Under investigation
+2020-02-18 11:00:00,2020,2,11,2,4,Palakkad,10.8071844,76.3646796,GRID_1176,Educational Campus,Traffic-related Accident,2,Charge Sheeted
+2020-02-18 18:00:00,2020,2,18,2,5,Thrissur,10.7425817,76.2831966,GRID_825,Highway/Expressway,Cyber Crime,2,Charge Sheeted
+2020-02-19 00:00:00,2020,2,0,3,4,Palakkad,10.7535119,76.4789613,GRID_130,Recreational Park,Theft,2,Closed
+2020-02-19 07:00:00,2020,2,7,3,3,Kozhikode,11.236076,75.858156,GRID_436,Residential Area,Property Damage,3,Under investigation
+2020-02-19 13:00:00,2020,2,13,3,3,Kozhikode,11.3032134,75.8208961,GRID_282,Industrial Zone,Cyber Crime,3,Under investigation
+2020-02-19 20:00:00,2020,2,20,3,5,Thrissur,10.6606386,76.3116669,GRID_1146,Recreational Park,Narcotics/NDPS,3,Under investigation
+2020-02-20 02:00:00,2020,2,2,4,1,Ernakulam,10.0587083,76.3777423,GRID_643,Public Transit Hub,Theft,5,Under investigation
+2020-02-20 09:00:00,2020,2,9,4,2,Kannur,11.9358176,75.3911764,GRID_1197,Highway/Expressway,Theft,2,Closed
+2020-02-20 15:00:00,2020,2,15,4,1,Ernakulam,10.0614409,76.3247982,GRID_1133,Highway/Expressway,Narcotics/NDPS,2,Under investigation
+2020-02-20 22:00:00,2020,2,22,4,1,Ernakulam,10.0847753,76.2728377,GRID_759,Commercial Hub,Narcotics/NDPS,3,Charge Sheeted
+2020-02-21 04:00:00,2020,2,4,5,4,Palakkad,10.7961028,76.4466027,GRID_259,Residential Area,Narcotics/NDPS,1,Under investigation
+2020-02-21 11:00:00,2020,2,11,5,4,Palakkad,10.8162992,76.4146995,GRID_1137,Public Transit Hub,Property Damage,2,Under investigation
+2020-02-21 17:00:00,2020,2,17,5,3,Kozhikode,11.2832622,75.8718434,GRID_511,Industrial Zone,Traffic-related Accident,2,Charge Sheeted
+2020-02-22 00:00:00,2020,2,0,6,3,Kozhikode,11.230251,75.8724674,GRID_1111,Highway/Expressway,Theft,1,Under investigation
+2020-02-22 06:00:00,2020,2,6,6,1,Ernakulam,10.0700617,76.2681404,GRID_152,Highway/Expressway,Traffic-related Accident,4,Under investigation
+2020-02-22 13:00:00,2020,2,13,6,5,Thrissur,10.6900964,76.387471,GRID_507,Public Transit Hub,Traffic-related Accident,2,Charge Sheeted
+2020-02-22 19:00:00,2020,2,19,6,5,Thrissur,10.6667351,76.3647907,GRID_946,Recreational Park,Narcotics/NDPS,2,Charge Sheeted
+2020-02-23 02:00:00,2020,2,2,7,2,Kannur,11.901506,75.4345099,GRID_1145,Recreational Park,Property Damage,1,Under investigation
+2020-02-23 08:00:00,2020,2,8,7,3,Kozhikode,11.2245742,75.8645844,GRID_1153,Residential Area,Cyber Crime,3,Closed
+2020-02-23 15:00:00,2020,2,15,7,3,Kozhikode,11.3173489,75.8762653,GRID_802,Commercial Hub,Property Damage,2,Charge Sheeted
+2020-02-23 21:00:00,2020,2,21,7,2,Kannur,11.9499582,75.3756103,GRID_359,Highway/Expressway,Traffic-related Accident,3,Charge Sheeted
+2020-02-24 04:00:00,2020,2,4,1,1,Ernakulam,10.0813221,76.2629504,GRID_1182,Commercial Hub,Property Damage,2,Under investigation
+2020-02-24 10:00:00,2020,2,10,1,4,Palakkad,10.7222124,76.4117776,GRID_875,Recreational Park,Narcotics/NDPS,1,Under investigation
+2020-02-24 17:00:00,2020,2,17,1,4,Palakkad,10.7688643,76.4832652,GRID_1135,Recreational Park,Cyber Crime,3,Under investigation
+2020-02-24 23:00:00,2020,2,23,1,3,Kozhikode,11.2883295,75.8135083,GRID_949,Educational Campus,Narcotics/NDPS,1,Under investigation
+2020-02-25 06:00:00,2020,2,6,2,1,Ernakulam,10.0037803,76.3796549,GRID_453,Industrial Zone,Cyber Crime,2,Charge Sheeted
+2020-02-25 12:00:00,2020,2,12,2,4,Palakkad,10.7626181,76.4322219,GRID_1198,Residential Area,Traffic-related Accident,2,Closed
+2020-02-25 19:00:00,2020,2,19,2,4,Palakkad,10.7363624,76.4871695,GRID_972,Educational Campus,Cyber Crime,5,Charge Sheeted
+2020-02-26 01:00:00,2020,2,1,3,1,Ernakulam,10.0709892,76.2864924,GRID_1090,Industrial Zone,Cyber Crime,1,Under investigation
+2020-02-26 08:00:00,2020,2,8,3,4,Palakkad,10.7282381,76.4688799,GRID_1117,Educational Campus,Cyber Crime,3,Charge Sheeted
+2020-02-26 14:00:00,2020,2,14,3,4,Palakkad,10.7854511,76.4037215,GRID_393,Educational Campus,Property Damage,1,Under investigation
+2020-02-26 21:00:00,2020,2,21,3,1,Ernakulam,10.1121382,76.2781269,GRID_308,Residential Area,Property Damage,2,Charge Sheeted
+2020-02-27 03:00:00,2020,2,3,4,1,Ernakulam,10.0291736,76.3732339,GRID_917,Residential Area,Traffic-related Accident,2,Charge Sheeted
+2020-02-27 10:00:00,2020,2,10,4,1,Ernakulam,10.0271564,76.3366231,GRID_489,Public Transit Hub,Cyber Crime,5,Charge Sheeted
+2020-02-27 16:00:00,2020,2,16,4,4,Palakkad,10.7597594,76.4038744,GRID_424,Commercial Hub,Theft,2,Closed
+2020-02-27 23:00:00,2020,2,23,4,2,Kannur,11.9780773,75.4091201,GRID_1039,Commercial Hub,Traffic-related Accident,1,Under investigation
+2020-02-28 05:00:00,2020,2,5,5,4,Palakkad,10.8094099,76.3967927,GRID_988,Public Transit Hub,Cyber Crime,2,Charge Sheeted
+2020-02-28 12:00:00,2020,2,12,5,5,Thrissur,10.6813105,76.2656041,GRID_767,Public Transit Hub,Cyber Crime,1,Closed
+2020-02-28 18:00:00,2020,2,18,5,2,Kannur,11.9382,75.4042232,GRID_732,Recreational Park,Property Damage,1,Charge Sheeted
+2020-02-29 01:00:00,2020,2,1,6,1,Ernakulam,10.0982973,76.3167852,GRID_676,Industrial Zone,Traffic-related Accident,3,Charge Sheeted
+2020-02-29 07:00:00,2020,2,7,6,2,Kannur,11.9761832,75.3822631,GRID_236,Educational Campus,Cyber Crime,1,Closed
+2020-02-29 14:00:00,2020,2,14,6,1,Ernakulam,10.0989797,76.3531916,GRID_527,Public Transit Hub,Cyber Crime,1,Under investigation
+2020-02-29 20:00:00,2020,2,20,6,1,Ernakulam,10.0833475,76.361374,GRID_711,Highway/Expressway,Traffic-related Accident,3,Closed
+2020-03-01 03:00:00,2020,3,3,7,4,Palakkad,10.7961024,76.4601953,GRID_1010,Commercial Hub,Theft,2,Under investigation
+2020-03-01 09:00:00,2020,3,9,7,5,Thrissur,10.6731245,76.2658547,GRID_918,Public Transit Hub,Traffic-related Accident,1,Charge Sheeted
+2020-03-01 16:00:00,2020,3,16,7,5,Thrissur,10.7520848,76.3709971,GRID_240,Highway/Expressway,Traffic-related Accident,2,Closed
+2020-03-01 22:00:00,2020,3,22,7,4,Palakkad,10.7996537,76.4370436,GRID_276,Highway/Expressway,Theft,3,Under investigation
+2020-03-02 05:00:00,2020,3,5,1,3,Kozhikode,11.2317308,75.7750223,GRID_297,Highway/Expressway,Traffic-related Accident,2,Charge Sheeted
+2020-03-02 11:00:00,2020,3,11,1,5,Thrissur,10.7285565,76.3374551,GRID_723,Recreational Park,Cyber Crime,2,Under investigation
+2020-03-02 18:00:00,2020,3,18,1,3,Kozhikode,11.2400525,75.8189913,GRID_790,Recreational Park,Traffic-related Accident,1,Closed
+2020-03-03 00:00:00,2020,3,0,2,1,Ernakulam,9.9702734,76.3298366,GRID_500,Highway/Expressway,Theft,3,Closed
+2020-03-03 07:00:00,2020,3,7,2,2,Kannur,11.8922792,75.4557071,GRID_570,Industrial Zone,Narcotics/NDPS,2,Charge Sheeted
+2020-03-03 13:00:00,2020,3,13,2,1,Ernakulam,10.0096579,76.3146264,GRID_317,Recreational Park,Traffic-related Accident,3,Charge Sheeted
+2020-03-03 20:00:00,2020,3,20,2,1,Ernakulam,9.9618593,76.2686936,GRID_1028,Educational Campus,Property Damage,4,Closed
+2020-03-04 02:00:00,2020,3,2,3,5,Thrissur,10.6992494,76.346389,GRID_731,Highway/Expressway,Cyber Crime,3,Under investigation
+2020-03-04 09:00:00,2020,3,9,3,4,Palakkad,10.7800021,76.406666,GRID_1050,Educational Campus,Cyber Crime,2,Charge Sheeted
+2020-03-04 15:00:00,2020,3,15,3,2,Kannur,11.9433978,75.4632147,GRID_1005,Educational Campus,Property Damage,2,Charge Sheeted
+2020-03-04 22:00:00,2020,3,22,3,5,Thrissur,10.7379851,76.2671314,GRID_274,Highway/Expressway,Property Damage,2,Under investigation
+2020-03-05 04:00:00,2020,3,4,4,4,Palakkad,10.7680507,76.3767888,GRID_122,Commercial Hub,Traffic-related Accident,1,Under investigation
+2020-03-05 11:00:00,2020,3,11,4,1,Ernakulam,9.9987272,76.3783995,GRID_334,Industrial Zone,Property Damage,1,Under investigation
+2020-03-05 17:00:00,2020,3,17,4,4,Palakkad,10.7342496,76.4398221,GRID_1136,Highway/Expressway,Narcotics/NDPS,4,Under investigation
+2020-03-06 00:00:00,2020,3,0,5,3,Kozhikode,11.2818156,75.8442958,GRID_1028,Highway/Expressway,Theft,2,Closed
+2020-03-06 06:00:00,2020,3,6,5,3,Kozhikode,11.2759649,75.7611725,GRID_622,Recreational Park,Property Damage,2,Charge Sheeted
+2020-03-06 13:00:00,2020,3,13,5,3,Kozhikode,11.2526461,75.8221254,GRID_530,Highway/Expressway,Property Damage,3,Charge Sheeted
+2020-03-06 19:00:00,2020,3,19,5,5,Thrissur,10.6687866,76.3231128,GRID_892,Commercial Hub,Narcotics/NDPS,3,Under investigation
+2020-03-07 02:00:00,2020,3,2,6,4,Palakkad,10.7233203,76.3725726,GRID_632,Recreational Park,Cyber Crime,1,Under investigation
+2020-03-07 08:00:00,2020,3,8,6,3,Kozhikode,11.2596923,75.7759259,GRID_1078,Residential Area,Cyber Crime,4,Under investigation
+2020-03-07 15:00:00,2020,3,15,6,5,Thrissur,10.7167541,76.3841037,GRID_909,Residential Area,Traffic-related Accident,1,Charge Sheeted
+2020-03-07 21:00:00,2020,3,21,6,3,Kozhikode,11.3000587,75.784018,GRID_1012,Educational Campus,Narcotics/NDPS,3,Charge Sheeted
+2020-03-08 04:00:00,2020,3,4,7,3,Kozhikode,11.2367483,75.7725481,GRID_970,Industrial Zone,Theft,4,Closed
+2020-03-08 10:00:00,2020,3,10,7,3,Kozhikode,11.283643,75.8447771,GRID_639,Educational Campus,Theft,3,Charge Sheeted
+2020-03-08 17:00:00,2020,3,17,7,5,Thrissur,10.6631586,76.4285182,GRID_1123,Commercial Hub,Narcotics/NDPS,3,Charge Sheeted
+2020-03-08 23:00:00,2020,3,23,7,5,Thrissur,10.6651971,76.3574333,GRID_326,Public Transit Hub,Theft,1,Charge Sheeted
+2020-03-09 06:00:00,2020,3,6,1,3,Kozhikode,11.2909061,75.8645163,GRID_972,Industrial Zone,Cyber Crime,2,Closed
+2020-03-09 12:00:00,2020,3,12,1,5,Thrissur,10.7314087,76.4043111,GRID_991,Residential Area,Theft,3,Charge Sheeted
+2020-03-09 19:00:00,2020,3,19,1,4,Palakkad,10.753945,76.490372,GRID_1136,Educational Campus,Theft,2,Under investigation
+2020-03-10 01:00:00,2020,3,1,2,1,Ernakulam,9.9728184,76.367378,GRID_309,Residential Area,Narcotics/NDPS,4,Charge Sheeted
+2020-03-10 08:00:00,2020,3,8,2,3,Kozhikode,11.2747592,75.8580757,GRID_840,Commercial Hub,Narcotics/NDPS,2,Charge Sheeted
+2020-03-10 14:00:00,2020,3,14,2,1,Ernakulam,10.0323709,76.3372293,GRID_496,Commercial Hub,Theft,2,Charge Sheeted
+2020-03-10 21:00:00,2020,3,21,2,1,Ernakulam,10.0442244,76.3477907,GRID_130,Public Transit Hub,Property Damage,2,Under investigation
+2020-03-11 03:00:00,2020,3,3,3,4,Palakkad,10.728163,76.3696563,GRID_997,Public Transit Hub,Narcotics/NDPS,2,Closed
+2020-03-11 10:00:00,2020,3,10,3,1,Ernakulam,9.9995365,76.2791454,GRID_748,Recreational Park,Traffic-related Accident,3,Closed
+2020-03-11 16:00:00,2020,3,16,3,3,Kozhikode,11.3071784,75.7863057,GRID_428,Industrial Zone,Traffic-related Accident,3,Under investigation
+2020-03-11 23:00:00,2020,3,23,3,4,Palakkad,10.8175865,76.4139033,GRID_1051,Commercial Hub,Cyber Crime,3,Closed
+2020-03-12 05:00:00,2020,3,5,4,1,Ernakulam,9.9891389,76.3547638,GRID_720,Educational Campus,Theft,4,Under investigation
+2020-03-12 12:00:00,2020,3,12,4,3,Kozhikode,11.2858708,75.8197835,GRID_261,Residential Area,Property Damage,4,Under investigation
+2020-03-12 18:00:00,2020,3,18,4,2,Kannur,11.9266436,75.4463042,GRID_875,Highway/Expressway,Cyber Crime,4,Under investigation
+2020-03-13 01:00:00,2020,3,1,5,1,Ernakulam,9.9965528,76.3795601,GRID_373,Public Transit Hub,Theft,1,Under investigation
+2020-03-13 07:00:00,2020,3,7,5,2,Kannur,11.9769752,75.4380391,GRID_1126,Highway/Expressway,Narcotics/NDPS,3,Closed
+2020-03-13 14:00:00,2020,3,14,5,5,Thrissur,10.6799542,76.3824411,GRID_1151,Educational Campus,Traffic-related Accident,2,Under investigation
+2020-03-13 20:00:00,2020,3,20,5,5,Thrissur,10.6672198,76.2655175,GRID_425,Public Transit Hub,Property Damage,1,Under investigation
+2020-03-14 03:00:00,2020,3,3,6,2,Kannur,11.8909219,75.4155148,GRID_1039,Highway/Expressway,Traffic-related Accident,3,Under investigation
+2020-03-14 09:00:00,2020,3,9,6,2,Kannur,11.9641927,75.4472603,GRID_639,Industrial Zone,Narcotics/NDPS,2,Under investigation
+2020-03-14 16:00:00,2020,3,16,6,3,Kozhikode,11.2942707,75.8110592,GRID_587,Educational Campus,Theft,1,Under investigation
+2020-03-14 22:00:00,2020,3,22,6,3,Kozhikode,11.2545935,75.8045247,GRID_921,Residential Area,Narcotics/NDPS,1,Charge Sheeted
+2020-03-15 05:00:00,2020,3,5,7,1,Ernakulam,10.1180239,76.2648131,GRID_1188,Industrial Zone,Narcotics/NDPS,1,Under investigation
+2020-03-15 11:00:00,2020,3,11,7,1,Ernakulam,10.098725,76.329441,GRID_455,Educational Campus,Traffic-related Accident,5,Closed
+2020-03-15 18:00:00,2020,3,18,7,2,Kannur,11.9126339,75.4470309,GRID_334,Recreational Park,Property Damage,1,Closed
+2020-03-16 00:00:00,2020,3,0,1,1,Ernakulam,10.037867,76.3648108,GRID_326,Public Transit Hub,Narcotics/NDPS,2,Under investigation
+2020-03-16 07:00:00,2020,3,7,1,2,Kannur,11.9680842,75.4106065,GRID_148,Commercial Hub,Traffic-related Accident,2,Closed
+2020-03-16 13:00:00,2020,3,13,1,2,Kannur,11.8932193,75.431082,GRID_217,Residential Area,Property Damage,2,Under investigation
+2020-03-16 20:00:00,2020,3,20,1,3,Kozhikode,11.3112363,75.7852795,GRID_153,Industrial Zone,Theft,5,Under investigation
+2020-03-17 02:00:00,2020,3,2,2,5,Thrissur,10.7222967,76.3736808,GRID_664,Industrial Zone,Theft,1,Under investigation
+2020-03-17 09:00:00,2020,3,9,2,5,Thrissur,10.7333113,76.2836822,GRID_1167,Highway/Expressway,Cyber Crime,3,Under investigation
+2020-03-17 15:00:00,2020,3,15,2,4,Palakkad,10.7915825,76.5054452,GRID_152,Public Transit Hub,Traffic-related Accident,3,Charge Sheeted
+2020-03-17 22:00:00,2020,3,22,2,1,Ernakulam,9.9887493,76.2885052,GRID_657,Commercial Hub,Property Damage,5,Charge Sheeted
+2020-03-18 04:00:00,2020,3,4,3,4,Palakkad,10.8171395,76.3889563,GRID_967,Educational Campus,Narcotics/NDPS,3,Under investigation
+2020-03-18 11:00:00,2020,3,11,3,5,Thrissur,10.7454385,76.34861,GRID_497,Commercial Hub,Theft,4,Charge Sheeted
+2020-03-18 17:00:00,2020,3,17,3,1,Ernakulam,9.999557,76.36449,GRID_774,Public Transit Hub,Property Damage,1,Under investigation
+2020-03-19 00:00:00,2020,3,0,4,5,Thrissur,10.7045305,76.3526671,GRID_486,Public Transit Hub,Traffic-related Accident,2,Charge Sheeted
+2020-03-19 06:00:00,2020,3,6,4,1,Ernakulam,10.0174773,76.3311541,GRID_210,Recreational Park,Cyber Crime,2,Under investigation
+2020-03-19 13:00:00,2020,3,13,4,4,Palakkad,10.7363524,76.422573,GRID_713,Recreational Park,Theft,4,Under investigation
+2020-03-19 19:00:00,2020,3,19,4,4,Palakkad,10.8169412,76.4013013,GRID_116,Commercial Hub,Property Damage,1,Under investigation
+2020-03-20 02:00:00,2020,3,2,5,2,Kannur,11.9388084,75.3990228,GRID_983,Educational Campus,Property Damage,1,Under investigation
+2020-03-20 08:00:00,2020,3,8,5,5,Thrissur,10.7373473,76.2835573,GRID_640,Commercial Hub,Property Damage,2,Charge Sheeted
+2020-03-20 15:00:00,2020,3,15,5,4,Palakkad,10.8169821,76.4326063,GRID_270,Public Transit Hub,Traffic-related Accident,1,Closed
+2020-03-20 21:00:00,2020,3,21,5,1,Ernakulam,9.9977681,76.2688196,GRID_508,Public Transit Hub,Traffic-related Accident,1,Under investigation
+2020-03-21 04:00:00,2020,3,4,6,2,Kannur,11.8803709,75.4223729,GRID_839,Highway/Expressway,Traffic-related Accident,5,Charge Sheeted
+2020-03-21 10:00:00,2020,3,10,6,4,Palakkad,10.7537003,76.4926213,GRID_957,Recreational Park,Narcotics/NDPS,2,Charge Sheeted
+2020-03-21 17:00:00,2020,3,17,6,1,Ernakulam,10.028942,76.2898457,GRID_329,Highway/Expressway,Property Damage,3,Closed
+2020-03-21 23:00:00,2020,3,23,6,4,Palakkad,10.7817145,76.4730844,GRID_218,Residential Area,Theft,3,Under investigation
+2020-03-22 06:00:00,2020,3,6,7,4,Palakkad,10.7367042,76.3868191,GRID_883,Public Transit Hub,Traffic-related Accident,2,Charge Sheeted
+2020-03-22 12:00:00,2020,3,12,7,1,Ernakulam,9.9658674,76.3483682,GRID_564,Highway/Expressway,Traffic-related Accident,1,Closed
+2020-03-22 19:00:00,2020,3,19,7,1,Ernakulam,10.0662087,76.3169557,GRID_203,Commercial Hub,Property Damage,2,Charge Sheeted
+2020-03-23 01:00:00,2020,3,1,1,1,Ernakulam,10.0950673,76.3566804,GRID_797,Recreational Park,Traffic-related Accident,2,Under investigation
+2020-03-23 08:00:00,2020,3,8,1,2,Kannur,11.9302425,75.4641926,GRID_274,Recreational Park,Narcotics/NDPS,3,Under investigation
+2020-03-23 14:00:00,2020,3,14,1,3,Kozhikode,11.2405841,75.7734304,GRID_844,Educational Campus,Narcotics/NDPS,2,Under investigation
+2020-03-23 21:00:00,2020,3,21,1,1,Ernakulam,10.0031599,76.2668504,GRID_764,Commercial Hub,Traffic-related Accident,1,Charge Sheeted
+2020-03-24 03:00:00,2020,3,3,2,5,Thrissur,10.713117,76.428589,GRID_132,Educational Campus,Property Damage,3,Charge Sheeted
+2020-03-24 10:00:00,2020,3,10,2,2,Kannur,11.8647212,75.3746532,GRID_154,Highway/Expressway,Property Damage,5,Under investigation
+2020-03-24 16:00:00,2020,3,16,2,5,Thrissur,10.7052199,76.4280975,GRID_618,Industrial Zone,Property Damage,4,Charge Sheeted
+2020-03-24 23:00:00,2020,3,23,2,5,Thrissur,10.6916156,76.3513023,GRID_855,Residential Area,Cyber Crime,4,Charge Sheeted
+2020-03-25 05:00:00,2020,3,5,3,4,Palakkad,10.7241573,76.3837349,GRID_111,Commercial Hub,Traffic-related Accident,4,Charge Sheeted
+2020-03-25 12:00:00,2020,3,12,3,4,Palakkad,10.818663,76.514419,GRID_819,Commercial Hub,Property Damage,2,Charge Sheeted
+2020-03-25 18:00:00,2020,3,18,3,3,Kozhikode,11.220494,75.8742174,GRID_654,Commercial Hub,Narcotics/NDPS,4,Closed
+2020-03-26 01:00:00,2020,3,1,4,2,Kannur,11.9366944,75.4641502,GRID_472,Educational Campus,Theft,1,Under investigation
+2020-03-26 07:00:00,2020,3,7,4,1,Ernakulam,10.0327584,76.3218715,GRID_583,Highway/Expressway,Theft,3,Closed
+2020-03-26 14:00:00,2020,3,14,4,5,Thrissur,10.7088847,76.3800356,GRID_1072,Commercial Hub,Property Damage,3,Under investigation
+2020-03-26 20:00:00,2020,3,20,4,4,Palakkad,10.7339651,76.3647958,GRID_722,Industrial Zone,Theft,1,Under investigation
+2020-03-27 03:00:00,2020,3,3,5,4,Palakkad,10.750793,76.4727489,GRID_406,Commercial Hub,Theft,4,Under investigation
+2020-03-27 09:00:00,2020,3,9,5,5,Thrissur,10.6801853,76.3812178,GRID_556,Recreational Park,Cyber Crime,5,Under investigation
+2020-03-27 16:00:00,2020,3,16,5,1,Ernakulam,10.1151859,76.2712681,GRID_259,Residential Area,Narcotics/NDPS,2,Under investigation
+2020-03-27 22:00:00,2020,3,22,5,2,Kannur,11.9407123,75.41325,GRID_430,Recreational Park,Narcotics/NDPS,4,Under investigation
+2020-03-28 05:00:00,2020,3,5,6,1,Ernakulam,10.0989028,76.281258,GRID_875,Recreational Park,Cyber Crime,1,Closed
+2020-03-28 11:00:00,2020,3,11,6,5,Thrissur,10.7292626,76.4108608,GRID_324,Residential Area,Cyber Crime,3,Under investigation
+2020-03-28 18:00:00,2020,3,18,6,3,Kozhikode,11.3144614,75.8419898,GRID_1082,Industrial Zone,Theft,2,Charge Sheeted
+2020-03-29 00:00:00,2020,3,0,7,2,Kannur,11.919661,75.4341417,GRID_828,Highway/Expressway,Traffic-related Accident,3,Under investigation
+2020-03-29 07:00:00,2020,3,7,7,1,Ernakulam,10.0990248,76.3284732,GRID_1168,Recreational Park,Theft,5,Closed
+2020-03-29 13:00:00,2020,3,13,7,1,Ernakulam,9.9648619,76.3717138,GRID_1182,Highway/Expressway,Cyber Crime,4,Charge Sheeted
+2020-03-29 20:00:00,2020,3,20,7,5,Thrissur,10.7289527,76.3817724,GRID_743,Recreational Park,Narcotics/NDPS,4,Under investigation
+2020-03-30 02:00:00,2020,3,2,1,4,Palakkad,10.7415675,76.4654217,GRID_715,Public Transit Hub,Theft,2,Charge Sheeted
+2020-03-30 09:00:00,2020,3,9,1,5,Thrissur,10.6993864,76.3772219,GRID_294,Residential Area,Traffic-related Accident,5,Charge Sheeted
+2020-03-30 15:00:00,2020,3,15,1,2,Kannur,11.8727912,75.4389414,GRID_588,Recreational Park,Theft,1,Charge Sheeted
+2020-03-30 22:00:00,2020,3,22,1,4,Palakkad,10.8199414,76.3677139,GRID_256,Public Transit Hub,Property Damage,4,Charge Sheeted
+2020-03-31 04:00:00,2020,3,4,2,4,Palakkad,10.8177174,76.4251053,GRID_709,Educational Campus,Theft,2,Charge Sheeted
+2020-03-31 11:00:00,2020,3,11,2,4,Palakkad,10.8070753,76.4851817,GRID_511,Public Transit Hub,Cyber Crime,1,Charge Sheeted
+2020-03-31 17:00:00,2020,3,17,2,4,Palakkad,10.7767016,76.4781519,GRID_570,Commercial Hub,Narcotics/NDPS,3,Charge Sheeted
+2020-04-01 00:00:00,2020,4,0,3,3,Kozhikode,11.3078516,75.8084968,GRID_615,Recreational Park,Narcotics/NDPS,2,Under investigation
+2020-04-01 06:00:00,2020,4,6,3,2,Kannur,11.899244,75.4401112,GRID_492,Public Transit Hub,Cyber Crime,2,Closed
+2020-04-01 13:00:00,2020,4,13,3,5,Thrissur,10.7407846,76.3972113,GRID_730,Highway/Expressway,Property Damage,2,Under investigation
+2020-04-01 19:00:00,2020,4,19,3,4,Palakkad,10.7997814,76.4296933,GRID_707,Educational Campus,Cyber Crime,1,Charge Sheeted
+2020-04-02 02:00:00,2020,4,2,4,5,Thrissur,10.7417834,76.2816376,GRID_1079,Industrial Zone,Theft,1,Under investigation
+2020-04-02 08:00:00,2020,4,8,4,5,Thrissur,10.7144489,76.2610366,GRID_533,Recreational Park,Cyber Crime,1,Charge Sheeted
+2020-04-02 15:00:00,2020,4,15,4,4,Palakkad,10.7524586,76.4186338,GRID_639,Commercial Hub,Cyber Crime,2,Closed
+2020-04-02 21:00:00,2020,4,21,4,5,Thrissur,10.6996173,76.3851841,GRID_377,Industrial Zone,Property Damage,1,Under investigation
+2020-04-03 04:00:00,2020,4,4,5,5,Thrissur,10.6988558,76.3407649,GRID_332,Public Transit Hub,Theft,3,Under investigation
+2020-04-03 10:00:00,2020,4,10,5,1,Ernakulam,9.9980071,76.3047902,GRID_461,Industrial Zone,Traffic-related Accident,2,Charge Sheeted
+2020-04-03 17:00:00,2020,4,17,5,1,Ernakulam,9.9963631,76.2687835,GRID_125,Industrial Zone,Traffic-related Accident,5,Closed
+2020-04-03 23:00:00,2020,4,23,5,4,Palakkad,10.7803449,76.466914,GRID_1148,Educational Campus,Narcotics/NDPS,4,Charge Sheeted
+2020-04-04 06:00:00,2020,4,6,6,5,Thrissur,10.721949,76.3434289,GRID_606,Industrial Zone,Cyber Crime,2,Under investigation
+2020-04-04 12:00:00,2020,4,12,6,1,Ernakulam,10.0207657,76.3636,GRID_366,Industrial Zone,Narcotics/NDPS,4,Closed
+2020-04-04 19:00:00,2020,4,19,6,1,Ernakulam,10.0430531,76.3175018,GRID_560,Recreational Park,Property Damage,4,Charge Sheeted
+2020-04-05 01:00:00,2020,4,1,7,3,Kozhikode,11.2225642,75.8009497,GRID_555,Educational Campus,Traffic-related Accident,5,Under investigation
+2020-04-05 08:00:00,2020,4,8,7,1,Ernakulam,10.0208313,76.3078587,GRID_1191,Commercial Hub,Cyber Crime,3,Under investigation
+2020-04-05 14:00:00,2020,4,14,7,4,Palakkad,10.7780172,76.4453764,GRID_1106,Public Transit Hub,Property Damage,1,Charge Sheeted
+2020-04-05 21:00:00,2020,4,21,7,4,Palakkad,10.7807905,76.4823813,GRID_962,Educational Campus,Property Damage,3,Under investigation
+2020-04-06 03:00:00,2020,4,3,1,1,Ernakulam,10.0900777,76.3461748,GRID_590,Educational Campus,Cyber Crime,3,Under investigation
+2020-04-06 10:00:00,2020,4,10,1,4,Palakkad,10.8155524,76.3629172,GRID_1172,Residential Area,Property Damage,3,Closed
+2020-04-06 16:00:00,2020,4,16,1,1,Ernakulam,9.9913245,76.2609075,GRID_663,Educational Campus,Cyber Crime,2,Under investigation
+2020-04-06 23:00:00,2020,4,23,1,3,Kozhikode,11.2847475,75.8677637,GRID_315,Residential Area,Cyber Crime,4,Charge Sheeted
+2020-04-07 05:00:00,2020,4,5,2,1,Ernakulam,9.9989572,76.3712441,GRID_658,Public Transit Hub,Theft,5,Under investigation
+2020-04-07 12:00:00,2020,4,12,2,5,Thrissur,10.6660267,76.4281985,GRID_258,Industrial Zone,Narcotics/NDPS,2,Charge Sheeted
+2020-04-07 18:00:00,2020,4,18,2,1,Ernakulam,10.0162596,76.2721705,GRID_588,Recreational Park,Property Damage,1,Charge Sheeted
+2020-04-08 01:00:00,2020,4,1,3,5,Thrissur,10.7085872,76.3062198,GRID_785,Recreational Park,Property Damage,1,Under investigation
+2020-04-08 07:00:00,2020,4,7,3,1,Ernakulam,10.0055797,76.2968748,GRID_893,Public Transit Hub,Theft,4,Charge Sheeted
+2020-04-08 14:00:00,2020,4,14,3,3,Kozhikode,11.3003026,75.8246994,GRID_104,Public Transit Hub,Theft,3,Under investigation
+2020-04-08 20:00:00,2020,4,20,3,5,Thrissur,10.6911308,76.3698601,GRID_460,Highway/Expressway,Theft,3,Closed
+2020-04-09 03:00:00,2020,4,3,4,3,Kozhikode,11.2916151,75.7927149,GRID_558,Industrial Zone,Traffic-related Accident,2,Closed
+2020-04-09 09:00:00,2020,4,9,4,3,Kozhikode,11.2613549,75.7746263,GRID_347,Public Transit Hub,Traffic-related Accident,3,Charge Sheeted
+2020-04-09 16:00:00,2020,4,16,4,4,Palakkad,10.7381149,76.4689789,GRID_1045,Educational Campus,Traffic-related Accident,2,Charge Sheeted
+2020-04-09 22:00:00,2020,4,22,4,4,Palakkad,10.7381438,76.4440261,GRID_521,Recreational Park,Cyber Crime,2,Under investigation
+2020-04-10 05:00:00,2020,4,5,5,4,Palakkad,10.7909046,76.3771003,GRID_114,Commercial Hub,Property Damage,4,Charge Sheeted
+2020-04-10 11:00:00,2020,4,11,5,4,Palakkad,10.7767312,76.40105,GRID_835,Recreational Park,Narcotics/NDPS,5,Under investigation
+2020-04-10 18:00:00,2020,4,18,5,4,Palakkad,10.8162927,76.4373673,GRID_376,Residential Area,Cyber Crime,5,Under investigation
+2020-04-11 00:00:00,2020,4,0,6,1,Ernakulam,10.0889588,76.3260272,GRID_552,Recreational Park,Property Damage,5,Charge Sheeted
+2020-04-11 07:00:00,2020,4,7,6,4,Palakkad,10.7243413,76.4613042,GRID_697,Highway/Expressway,Property Damage,2,Under investigation
+2020-04-11 13:00:00,2020,4,13,6,5,Thrissur,10.7551403,76.3682901,GRID_545,Industrial Zone,Theft,2,Charge Sheeted
+2020-04-11 20:00:00,2020,4,20,6,2,Kannur,11.9583027,75.4661048,GRID_309,Public Transit Hub,Theft,3,Under investigation
+2020-04-12 02:00:00,2020,4,2,7,4,Palakkad,10.742808,76.3939272,GRID_813,Industrial Zone,Cyber Crime,5,Charge Sheeted
+2020-04-12 09:00:00,2020,4,9,7,2,Kannur,11.9333177,75.4093234,GRID_401,Public Transit Hub,Theft,1,Under investigation
+2020-04-12 15:00:00,2020,4,15,7,5,Thrissur,10.7439861,76.4220042,GRID_102,Recreational Park,Property Damage,2,Under investigation
+2020-04-12 22:00:00,2020,4,22,7,4,Palakkad,10.7553421,76.3978993,GRID_1089,Commercial Hub,Theft,1,Charge Sheeted
+2020-04-13 04:00:00,2020,4,4,1,1,Ernakulam,10.0848841,76.2929767,GRID_619,Commercial Hub,Traffic-related Accident,3,Closed
+2020-04-13 11:00:00,2020,4,11,1,1,Ernakulam,10.0916183,76.3108486,GRID_592,Highway/Expressway,Theft,2,Charge Sheeted
+2020-04-13 17:00:00,2020,4,17,1,3,Kozhikode,11.286755,75.7714642,GRID_719,Residential Area,Property Damage,2,Under investigation
+2020-04-14 00:00:00,2020,4,0,2,2,Kannur,11.9348631,75.4142121,GRID_430,Recreational Park,Cyber Crime,1,Under investigation
+2020-04-14 06:00:00,2020,4,6,2,2,Kannur,11.930393,75.3801617,GRID_432,Public Transit Hub,Narcotics/NDPS,2,Closed
+2020-04-14 13:00:00,2020,4,13,2,5,Thrissur,10.7336874,76.4153035,GRID_149,Recreational Park,Theft,4,Charge Sheeted
+2020-04-14 19:00:00,2020,4,19,2,4,Palakkad,10.741674,76.3753143,GRID_962,Highway/Expressway,Property Damage,2,Under investigation
+2020-04-15 02:00:00,2020,4,2,3,2,Kannur,11.8628366,75.4370366,GRID_371,Educational Campus,Narcotics/NDPS,3,Closed
+2020-04-15 08:00:00,2020,4,8,3,2,Kannur,11.9328513,75.4256037,GRID_679,Educational Campus,Narcotics/NDPS,3,Closed
+2020-04-15 15:00:00,2020,4,15,3,3,Kozhikode,11.2431947,75.8069087,GRID_659,Highway/Expressway,Traffic-related Accident,4,Closed
+2020-04-15 21:00:00,2020,4,21,3,5,Thrissur,10.7194476,76.349418,GRID_795,Public Transit Hub,Narcotics/NDPS,1,Closed
+2020-04-16 04:00:00,2020,4,4,4,5,Thrissur,10.7587786,76.2845592,GRID_545,Industrial Zone,Property Damage,5,Closed
+2020-04-16 10:00:00,2020,4,10,4,2,Kannur,11.9434173,75.4085183,GRID_1116,Highway/Expressway,Property Damage,3,Under investigation
+2020-04-16 17:00:00,2020,4,17,4,5,Thrissur,10.70282,76.3891676,GRID_456,Public Transit Hub,Theft,5,Under investigation
+2020-04-16 23:00:00,2020,4,23,4,3,Kozhikode,11.2892436,75.8789507,GRID_373,Commercial Hub,Theft,5,Charge Sheeted
+2020-04-17 06:00:00,2020,4,6,5,3,Kozhikode,11.2328394,75.7724932,GRID_1142,Highway/Expressway,Theft,2,Charge Sheeted
+2020-04-17 12:00:00,2020,4,12,5,5,Thrissur,10.7324339,76.3641096,GRID_410,Public Transit Hub,Narcotics/NDPS,1,Charge Sheeted
+2020-04-17 19:00:00,2020,4,19,5,2,Kannur,11.8928993,75.3695303,GRID_969,Highway/Expressway,Narcotics/NDPS,2,Under investigation
+2020-04-18 01:00:00,2020,4,1,6,2,Kannur,11.870279,75.4673029,GRID_985,Highway/Expressway,Traffic-related Accident,3,Charge Sheeted
+2020-04-18 08:00:00,2020,4,8,6,4,Palakkad,10.7391867,76.4117394,GRID_253,Industrial Zone,Theft,1,Charge Sheeted
+2020-04-18 14:00:00,2020,4,14,6,3,Kozhikode,11.2426656,75.8025996,GRID_719,Industrial Zone,Cyber Crime,1,Under investigation
+2020-04-18 21:00:00,2020,4,21,6,1,Ernakulam,9.9711078,76.3222872,GRID_982,Public Transit Hub,Traffic-related Accident,2,Under investigation
+2020-04-19 03:00:00,2020,4,3,7,2,Kannur,11.8681135,75.4560428,GRID_896,Public Transit Hub,Cyber Crime,1,Charge Sheeted
+2020-04-19 10:00:00,2020,4,10,7,5,Thrissur,10.6833712,76.3572021,GRID_224,Residential Area,Narcotics/NDPS,1,Charge Sheeted
+2020-04-19 16:00:00,2020,4,16,7,3,Kozhikode,11.3080079,75.8381053,GRID_718,Highway/Expressway,Traffic-related Accident,2,Under investigation
+2020-04-19 23:00:00,2020,4,23,7,5,Thrissur,10.7132958,76.3183801,GRID_344,Educational Campus,Traffic-related Accident,1,Charge Sheeted
+2020-04-20 05:00:00,2020,4,5,1,4,Palakkad,10.7533002,76.4671179,GRID_947,Highway/Expressway,Property Damage,2,Charge Sheeted
+2020-04-20 12:00:00,2020,4,12,1,3,Kozhikode,11.3194139,75.8394207,GRID_549,Highway/Expressway,Narcotics/NDPS,2,Charge Sheeted
+2020-04-20 18:00:00,2020,4,18,1,4,Palakkad,10.7757783,76.4769041,GRID_1029,Public Transit Hub,Narcotics/NDPS,2,Under investigation
+2020-04-21 01:00:00,2020,4,1,2,5,Thrissur,10.7065206,76.2708256,GRID_619,Highway/Expressway,Traffic-related Accident,4,Charge Sheeted
+2020-04-21 07:00:00,2020,4,7,2,3,Kozhikode,11.2762297,75.874915,GRID_461,Recreational Park,Narcotics/NDPS,3,Under investigation
+2020-04-21 14:00:00,2020,4,14,2,3,Kozhikode,11.2375303,75.8428006,GRID_107,Highway/Expressway,Traffic-related Accident,2,Closed
+2020-04-21 20:00:00,2020,4,20,2,1,Ernakulam,9.9921494,76.3242993,GRID_577,Recreational Park,Property Damage,2,Under investigation
+2020-04-22 03:00:00,2020,4,3,3,1,Ernakulam,9.9754682,76.3140445,GRID_594,Industrial Zone,Traffic-related Accident,4,Charge Sheeted
+2020-04-22 09:00:00,2020,4,9,3,5,Thrissur,10.7356163,76.3225629,GRID_932,Educational Campus,Narcotics/NDPS,4,Under investigation
+2020-04-22 16:00:00,2020,4,16,3,5,Thrissur,10.7264912,76.403181,GRID_1162,Public Transit Hub,Narcotics/NDPS,4,Charge Sheeted
+2020-04-22 22:00:00,2020,4,22,3,5,Thrissur,10.7527178,76.3022356,GRID_692,Highway/Expressway,Traffic-related Accident,3,Charge Sheeted
+2020-04-23 05:00:00,2020,4,5,4,1,Ernakulam,10.0238905,76.2782899,GRID_286,Recreational Park,Traffic-related Accident,1,Under investigation
+2020-04-23 11:00:00,2020,4,11,4,2,Kannur,11.979098,75.4712401,GRID_853,Recreational Park,Traffic-related Accident,2,Charge Sheeted
+2020-04-23 18:00:00,2020,4,18,4,2,Kannur,11.9247949,75.461044,GRID_192,Industrial Zone,Theft,1,Under investigation
+2020-04-24 00:00:00,2020,4,0,5,2,Kannur,11.922515,75.4348303,GRID_185,Recreational Park,Narcotics/NDPS,5,Under investigation
+2020-04-24 07:00:00,2020,4,7,5,4,Palakkad,10.7289124,76.4808433,GRID_1167,Commercial Hub,Narcotics/NDPS,3,Charge Sheeted
+2020-04-24 13:00:00,2020,4,13,5,5,Thrissur,10.6727713,76.4086922,GRID_236,Residential Area,Theft,3,Under investigation
+2020-04-24 20:00:00,2020,4,20,5,4,Palakkad,10.7982028,76.4733992,GRID_520,Educational Campus,Traffic-related Accident,2,Closed
+2020-04-25 02:00:00,2020,4,2,6,1,Ernakulam,9.9657857,76.2963754,GRID_173,Industrial Zone,Property Damage,4,Charge Sheeted
+2020-04-25 09:00:00,2020,4,9,6,5,Thrissur,10.6863113,76.3248246,GRID_270,Industrial Zone,Traffic-related Accident,2,Charge Sheeted
+2020-04-25 15:00:00,2020,4,15,6,3,Kozhikode,11.2287643,75.8724349,GRID_269,Highway/Expressway,Traffic-related Accident,1,Under investigation
+2020-04-25 22:00:00,2020,4,22,6,5,Thrissur,10.7153802,76.3149944,GRID_971,Commercial Hub,Theft,2,Charge Sheeted
+2020-04-26 04:00:00,2020,4,4,7,4,Palakkad,10.7596982,76.4315524,GRID_421,Highway/Expressway,Narcotics/NDPS,3,Charge Sheeted
+2020-04-26 11:00:00,2020,4,11,7,4,Palakkad,10.7800594,76.4425087,GRID_555,Highway/Expressway,Traffic-related Accident,2,Under investigation
+2020-04-26 17:00:00,2020,4,17,7,2,Kannur,11.970327,75.4196356,GRID_1043,Public Transit Hub,Narcotics/NDPS,4,Closed
+2020-04-27 00:00:00,2020,4,0,1,1,Ernakulam,10.1187453,76.362171,GRID_889,Public Transit Hub,Cyber Crime,1,Under investigation
+2020-04-27 06:00:00,2020,4,6,1,4,Palakkad,10.7408511,76.5088952,GRID_712,Public Transit Hub,Narcotics/NDPS,3,Closed
+2020-04-27 13:00:00,2020,4,13,1,4,Palakkad,10.7316366,76.490792,GRID_988,Commercial Hub,Property Damage,3,Under investigation
+2020-04-27 19:00:00,2020,4,19,1,2,Kannur,11.9056748,75.4653569,GRID_448,Highway/Expressway,Property Damage,2,Closed
+2020-04-28 02:00:00,2020,4,2,2,4,Palakkad,10.8068057,76.4889481,GRID_109,Residential Area,Traffic-related Accident,4,Charge Sheeted
+2020-04-28 08:00:00,2020,4,8,2,2,Kannur,11.9548037,75.3965615,GRID_839,Educational Campus,Narcotics/NDPS,4,Under investigation
+2020-04-28 15:00:00,2020,4,15,2,2,Kannur,11.8697103,75.4083576,GRID_766,Public Transit Hub,Traffic-related Accident,3,Under investigation
+2020-04-28 21:00:00,2020,4,21,2,4,Palakkad,10.7373525,76.4711922,GRID_645,Public Transit Hub,Theft,4,Charge Sheeted
+2020-04-29 04:00:00,2020,4,4,3,4,Palakkad,10.75461,76.5160976,GRID_228,Industrial Zone,Property Damage,3,Closed
+2020-04-29 10:00:00,2020,4,10,3,3,Kozhikode,11.2840972,75.8586977,GRID_700,Highway/Expressway,Traffic-related Accident,2,Under investigation
+2020-04-29 17:00:00,2020,4,17,3,5,Thrissur,10.6732525,76.4151626,GRID_704,Highway/Expressway,Theft,3,Under investigation
+2020-04-29 23:00:00,2020,4,23,3,5,Thrissur,10.7522757,76.3476711,GRID_426,Commercial Hub,Traffic-related Accident,2,Charge Sheeted
+2020-04-30 06:00:00,2020,4,6,4,2,Kannur,11.9327504,75.4517772,GRID_1079,Commercial Hub,Narcotics/NDPS,2,Charge Sheeted
+2020-04-30 12:00:00,2020,4,12,4,3,Kozhikode,11.2374839,75.8203079,GRID_503,Public Transit Hub,Narcotics/NDPS,1,Charge Sheeted
+2020-04-30 19:00:00,2020,4,19,4,3,Kozhikode,11.2598663,75.7775649,GRID_728,Highway/Expressway,Narcotics/NDPS,3,Charge Sheeted
+2020-05-01 01:00:00,2020,5,1,5,2,Kannur,11.9041041,75.3681807,GRID_817,Residential Area,Narcotics/NDPS,3,Under investigation
+2020-05-01 08:00:00,2020,5,8,5,5,Thrissur,10.6625812,76.2843299,GRID_1140,Educational Campus,Cyber Crime,2,Closed
+2020-05-01 14:00:00,2020,5,14,5,4,Palakkad,10.8163115,76.4479247,GRID_373,Highway/Expressway,Theft,3,Charge Sheeted
+2020-05-01 21:00:00,2020,5,21,5,2,Kannur,11.9758987,75.4118997,GRID_784,Industrial Zone,Theft,5,Under investigation
+2020-05-02 03:00:00,2020,5,3,6,1,Ernakulam,10.0098906,76.320737,GRID_215,Highway/Expressway,Narcotics/NDPS,1,Charge Sheeted
+2020-05-02 10:00:00,2020,5,10,6,5,Thrissur,10.7039512,76.2790196,GRID_960,Recreational Park,Cyber Crime,2,Charge Sheeted
+2020-05-02 16:00:00,2020,5,16,6,3,Kozhikode,11.2840826,75.7859246,GRID_792,Commercial Hub,Narcotics/NDPS,4,Under investigation
+2020-05-02 23:00:00,2020,5,23,6,4,Palakkad,10.7819588,76.4640322,GRID_423,Industrial Zone,Cyber Crime,2,Charge Sheeted
+2020-05-03 05:00:00,2020,5,5,7,5,Thrissur,10.6752025,76.2710429,GRID_1060,Educational Campus,Narcotics/NDPS,3,Under investigation
+2020-05-03 12:00:00,2020,5,12,7,4,Palakkad,10.7980762,76.4335681,GRID_213,Public Transit Hub,Property Damage,1,Charge Sheeted
+2020-05-03 18:00:00,2020,5,18,7,5,Thrissur,10.6658164,76.4390759,GRID_1181,Industrial Zone,Property Damage,2,Closed
+2020-05-04 01:00:00,2020,5,1,1,4,Palakkad,10.7257781,76.4712056,GRID_253,Highway/Expressway,Traffic-related Accident,3,Under investigation
+2020-05-04 07:00:00,2020,5,7,1,4,Palakkad,10.8183679,76.3982688,GRID_414,Public Transit Hub,Narcotics/NDPS,3,Under investigation
+2020-05-04 14:00:00,2020,5,14,1,4,Palakkad,10.7342249,76.3794216,GRID_1164,Highway/Expressway,Theft,4,Closed
+2020-05-04 20:00:00,2020,5,20,1,1,Ernakulam,10.008524,76.2721255,GRID_204,Public Transit Hub,Traffic-related Accident,4,Closed
+2020-05-05 03:00:00,2020,5,3,2,2,Kannur,11.9430594,75.367475,GRID_453,Educational Campus,Property Damage,4,Charge Sheeted
+2020-05-05 09:00:00,2020,5,9,2,1,Ernakulam,10.0415075,76.3796036,GRID_1115,Commercial Hub,Narcotics/NDPS,3,Charge Sheeted
+2020-05-05 16:00:00,2020,5,16,2,3,Kozhikode,11.301397,75.8338263,GRID_832,Educational Campus,Traffic-related Accident,1,Charge Sheeted
+2020-05-05 22:00:00,2020,5,22,2,5,Thrissur,10.6906254,76.3723013,GRID_808,Recreational Park,Narcotics/NDPS,3,Closed
+2020-05-06 05:00:00,2020,5,5,3,5,Thrissur,10.7127041,76.336695,GRID_750,Residential Area,Property Damage,1,Closed
+2020-05-06 11:00:00,2020,5,11,3,3,Kozhikode,11.233071,75.8663925,GRID_923,Commercial Hub,Traffic-related Accident,4,Under investigation
+2020-05-06 18:00:00,2020,5,18,3,4,Palakkad,10.7649785,76.3911396,GRID_1046,Educational Campus,Property Damage,2,Charge Sheeted
+2020-05-07 00:00:00,2020,5,0,4,3,Kozhikode,11.2567759,75.8096956,GRID_760,Recreational Park,Cyber Crime,3,Charge Sheeted
+2020-05-07 07:00:00,2020,5,7,4,4,Palakkad,10.8027538,76.4773783,GRID_198,Residential Area,Property Damage,2,Charge Sheeted
+2020-05-07 13:00:00,2020,5,13,4,3,Kozhikode,11.2969305,75.7613238,GRID_687,Recreational Park,Narcotics/NDPS,4,Charge Sheeted
+2020-05-07 20:00:00,2020,5,20,4,4,Palakkad,10.7616154,76.4370151,GRID_381,Highway/Expressway,Theft,4,Charge Sheeted
+2020-05-08 02:00:00,2020,5,2,5,3,Kozhikode,11.2219192,75.7911776,GRID_502,Highway/Expressway,Property Damage,2,Closed
+2020-05-08 09:00:00,2020,5,9,5,1,Ernakulam,10.0816464,76.2764532,GRID_799,Public Transit Hub,Theft,4,Under investigation
+2020-05-08 15:00:00,2020,5,15,5,3,Kozhikode,11.273531,75.7858242,GRID_298,Commercial Hub,Cyber Crime,2,Under investigation
+2020-05-08 22:00:00,2020,5,22,5,4,Palakkad,10.7212121,76.3985922,GRID_426,Highway/Expressway,Traffic-related Accident,3,Charge Sheeted
+2020-05-09 04:00:00,2020,5,4,6,1,Ernakulam,10.1161398,76.3561845,GRID_253,Industrial Zone,Traffic-related Accident,4,Under investigation
+2020-05-09 11:00:00,2020,5,11,6,3,Kozhikode,11.3159577,75.8185425,GRID_651,Recreational Park,Theft,2,Under investigation
+2020-05-09 17:00:00,2020,5,17,6,1,Ernakulam,9.9775578,76.3257551,GRID_504,Commercial Hub,Traffic-related Accident,5,Under investigation
+2020-05-10 00:00:00,2020,5,0,7,1,Ernakulam,10.0327004,76.3613228,GRID_561,Industrial Zone,Property Damage,1,Charge Sheeted
+2020-05-10 06:00:00,2020,5,6,7,1,Ernakulam,9.9756932,76.3185889,GRID_231,Highway/Expressway,Theft,1,Closed
+2020-05-10 13:00:00,2020,5,13,7,5,Thrissur,10.6750049,76.3184417,GRID_890,Public Transit Hub,Narcotics/NDPS,5,Charge Sheeted
+2020-05-10 19:00:00,2020,5,19,7,1,Ernakulam,10.0779771,76.3171222,GRID_973,Educational Campus,Property Damage,1,Charge Sheeted
+2020-05-11 02:00:00,2020,5,2,1,1,Ernakulam,10.0201421,76.3073372,GRID_183,Public Transit Hub,Property Damage,5,Under investigation
+2020-05-11 08:00:00,2020,5,8,1,3,Kozhikode,11.2659447,75.854202,GRID_853,Industrial Zone,Property Damage,5,Charge Sheeted
+2020-05-11 15:00:00,2020,5,15,1,4,Palakkad,10.8092085,76.5128535,GRID_727,Residential Area,Narcotics/NDPS,1,Charge Sheeted
+2020-05-11 21:00:00,2020,5,21,1,5,Thrissur,10.7386903,76.3167732,GRID_320,Highway/Expressway,Cyber Crime,3,Charge Sheeted
+2020-05-12 04:00:00,2020,5,4,2,3,Kozhikode,11.2888135,75.8125124,GRID_652,Industrial Zone,Traffic-related Accident,1,Under investigation
+2020-05-12 10:00:00,2020,5,10,2,3,Kozhikode,11.2454671,75.8609046,GRID_211,Residential Area,Theft,2,Under investigation
+2020-05-12 17:00:00,2020,5,17,2,5,Thrissur,10.6638426,76.4223172,GRID_714,Residential Area,Cyber Crime,1,Under investigation
+2020-05-12 23:00:00,2020,5,23,2,1,Ernakulam,10.0338364,76.3364642,GRID_1023,Recreational Park,Theft,2,Charge Sheeted
+2020-05-13 06:00:00,2020,5,6,3,5,Thrissur,10.7259354,76.4211212,GRID_574,Commercial Hub,Traffic-related Accident,2,Closed
+2020-05-13 12:00:00,2020,5,12,3,4,Palakkad,10.783667,76.4582294,GRID_935,Recreational Park,Narcotics/NDPS,2,Closed
+2020-05-13 19:00:00,2020,5,19,3,5,Thrissur,10.6666652,76.3533134,GRID_370,Highway/Expressway,Property Damage,5,Charge Sheeted
+2020-05-14 01:00:00,2020,5,1,4,5,Thrissur,10.6750169,76.3927381,GRID_520,Residential Area,Property Damage,4,Charge Sheeted
+2020-05-14 08:00:00,2020,5,8,4,1,Ernakulam,10.0419555,76.3416273,GRID_806,Industrial Zone,Narcotics/NDPS,3,Closed
+2020-05-14 14:00:00,2020,5,14,4,4,Palakkad,10.7241673,76.3735667,GRID_139,Educational Campus,Cyber Crime,3,Under investigation
+2020-05-14 21:00:00,2020,5,21,4,3,Kozhikode,11.2916323,75.7686501,GRID_288,Residential Area,Cyber Crime,4,Under investigation
+2020-05-15 03:00:00,2020,5,3,5,3,Kozhikode,11.2271257,75.761453,GRID_1093,Industrial Zone,Theft,2,Closed
+2020-05-15 10:00:00,2020,5,10,5,1,Ernakulam,10.1130402,76.348501,GRID_635,Educational Campus,Narcotics/NDPS,3,Under investigation
+2020-05-15 16:00:00,2020,5,16,5,1,Ernakulam,10.0165202,76.2955843,GRID_1127,Recreational Park,Cyber Crime,5,Closed
+2020-05-15 23:00:00,2020,5,23,5,5,Thrissur,10.6949703,76.3994376,GRID_389,Recreational Park,Narcotics/NDPS,2,Closed
+2020-05-16 05:00:00,2020,5,5,6,2,Kannur,11.9393645,75.3822235,GRID_532,Commercial Hub,Traffic-related Accident,3,Charge Sheeted
+2020-05-16 12:00:00,2020,5,12,6,1,Ernakulam,9.9878575,76.2718075,GRID_570,Industrial Zone,Property Damage,4,Closed
+2020-05-16 18:00:00,2020,5,18,6,4,Palakkad,10.7860303,76.4822996,GRID_727,Residential Area,Property Damage,5,Charge Sheeted
+2020-05-17 01:00:00,2020,5,1,7,3,Kozhikode,11.2465046,75.7625134,GRID_378,Public Transit Hub,Property Damage,3,Charge Sheeted
+2020-05-17 07:00:00,2020,5,7,7,2,Kannur,11.8698606,75.4761432,GRID_976,Recreational Park,Narcotics/NDPS,2,Under investigation
+2020-05-17 14:00:00,2020,5,14,7,3,Kozhikode,11.2495445,75.8523068,GRID_680,Recreational Park,Narcotics/NDPS,2,Under investigation
+2020-05-17 20:00:00,2020,5,20,7,2,Kannur,11.9349596,75.4058328,GRID_962,Commercial Hub,Theft,1,Under investigation
+2020-05-18 03:00:00,2020,5,3,1,1,Ernakulam,9.99291,76.2745664,GRID_353,Educational Campus,Property Damage,4,Charge Sheeted
+2020-05-18 09:00:00,2020,5,9,1,5,Thrissur,10.7215013,76.3994341,GRID_280,Commercial Hub,Theft,1,Under investigation
+2020-05-18 16:00:00,2020,5,16,1,3,Kozhikode,11.2843904,75.8236363,GRID_780,Residential Area,Property Damage,4,Under investigation
+2020-05-18 22:00:00,2020,5,22,1,3,Kozhikode,11.2241951,75.8762187,GRID_924,Industrial Zone,Theft,1,Under investigation
+2020-05-19 05:00:00,2020,5,5,2,4,Palakkad,10.7998714,76.4068515,GRID_799,Highway/Expressway,Theft,1,Charge Sheeted
+2020-05-19 11:00:00,2020,5,11,2,4,Palakkad,10.817997,76.4563011,GRID_665,Highway/Expressway,Traffic-related Accident,2,Closed
+2020-05-19 18:00:00,2020,5,18,2,5,Thrissur,10.7182423,76.3946532,GRID_779,Industrial Zone,Theft,3,Closed
+2020-05-20 00:00:00,2020,5,0,3,2,Kannur,11.9574124,75.4387774,GRID_490,Educational Campus,Narcotics/NDPS,1,Charge Sheeted
+2020-05-20 07:00:00,2020,5,7,3,3,Kozhikode,11.2328096,75.8005921,GRID_311,Recreational Park,Theft,2,Closed
+2020-05-20 13:00:00,2020,5,13,3,4,Palakkad,10.8128084,76.3959385,GRID_483,Educational Campus,Property Damage,2,Charge Sheeted
+2020-05-20 20:00:00,2020,5,20,3,1,Ernakulam,10.0195467,76.3118492,GRID_441,Recreational Park,Theft,2,Charge Sheeted
+2020-05-21 02:00:00,2020,5,2,4,5,Thrissur,10.7039405,76.3703291,GRID_943,Recreational Park,Cyber Crime,1,Charge Sheeted
+2020-05-21 09:00:00,2020,5,9,4,3,Kozhikode,11.3143076,75.7888831,GRID_1161,Highway/Expressway,Property Damage,4,Under investigation
+2020-05-21 15:00:00,2020,5,15,4,2,Kannur,11.8745802,75.3836965,GRID_519,Educational Campus,Cyber Crime,3,Closed
+2020-05-21 22:00:00,2020,5,22,4,2,Kannur,11.966431,75.4374973,GRID_850,Commercial Hub,Property Damage,1,Under investigation
+2020-05-22 04:00:00,2020,5,4,5,5,Thrissur,10.6885907,76.4068704,GRID_405,Recreational Park,Narcotics/NDPS,4,Charge Sheeted
+2020-05-22 11:00:00,2020,5,11,5,5,Thrissur,10.746137,76.4123726,GRID_801,Public Transit Hub,Narcotics/NDPS,5,Charge Sheeted
+2020-05-22 17:00:00,2020,5,17,5,5,Thrissur,10.7518927,76.3054034,GRID_968,Public Transit Hub,Narcotics/NDPS,3,Under investigation
+2020-05-23 00:00:00,2020,5,0,6,4,Palakkad,10.7955042,76.4336863,GRID_636,Commercial Hub,Cyber Crime,3,Under investigation
+2020-05-23 06:00:00,2020,5,6,6,3,Kozhikode,11.3041999,75.8474189,GRID_305,Public Transit Hub,Traffic-related Accident,4,Charge Sheeted
+2020-05-23 13:00:00,2020,5,13,6,2,Kannur,11.9531737,75.4387394,GRID_595,Residential Area,Property Damage,5,Under investigation
+2020-05-23 19:00:00,2020,5,19,6,3,Kozhikode,11.2377429,75.8254032,GRID_1170,Recreational Park,Narcotics/NDPS,4,Charge Sheeted
+2020-05-24 02:00:00,2020,5,2,7,3,Kozhikode,11.318467,75.8724866,GRID_603,Commercial Hub,Property Damage,2,Charge Sheeted
+2020-05-24 08:00:00,2020,5,8,7,1,Ernakulam,9.9669078,76.2797778,GRID_1145,Educational Campus,Cyber Crime,3,Charge Sheeted
+2020-05-24 15:00:00,2020,5,15,7,2,Kannur,11.8758075,75.4471176,GRID_312,Recreational Park,Traffic-related Accident,3,Charge Sheeted
+2020-05-24 21:00:00,2020,5,21,7,3,Kozhikode,11.3017785,75.7856214,GRID_409,Commercial Hub,Cyber Crime,1,Charge Sheeted
+2020-05-25 04:00:00,2020,5,4,1,2,Kannur,11.9207023,75.4608844,GRID_760,Highway/Expressway,Property Damage,2,Charge Sheeted
+2020-05-25 10:00:00,2020,5,10,1,4,Palakkad,10.7932802,76.446758,GRID_852,Educational Campus,Traffic-related Accident,4,Charge Sheeted
+2020-05-25 17:00:00,2020,5,17,1,5,Thrissur,10.7190348,76.3515049,GRID_371,Highway/Expressway,Traffic-related Accident,3,Charge Sheeted
+2020-05-25 23:00:00,2020,5,23,1,4,Palakkad,10.7497548,76.4504035,GRID_1037,Recreational Park,Cyber Crime,2,Charge Sheeted
+2020-05-26 06:00:00,2020,5,6,2,3,Kozhikode,11.2888885,75.8647987,GRID_131,Educational Campus,Narcotics/NDPS,3,Closed
+2020-05-26 12:00:00,2020,5,12,2,1,Ernakulam,10.0618066,76.3513346,GRID_542,Public Transit Hub,Property Damage,1,Under investigation
+2020-05-26 19:00:00,2020,5,19,2,4,Palakkad,10.7360072,76.4338492,GRID_261,Commercial Hub,Theft,2,Charge Sheeted
+2020-05-27 01:00:00,2020,5,1,3,1,Ernakulam,9.9614931,76.2896015,GRID_866,Recreational Park,Theft,4,Closed
+2020-05-27 08:00:00,2020,5,8,3,1,Ernakulam,10.0762339,76.3790172,GRID_353,Residential Area,Cyber Crime,2,Under investigation
+2020-05-27 14:00:00,2020,5,14,3,5,Thrissur,10.6699178,76.332269,GRID_620,Educational Campus,Property Damage,1,Under investigation
+2020-05-27 21:00:00,2020,5,21,3,4,Palakkad,10.8000071,76.3926457,GRID_1076,Educational Campus,Property Damage,5,Charge Sheeted
+2020-05-28 03:00:00,2020,5,3,4,1,Ernakulam,10.0488136,76.3479686,GRID_109,Industrial Zone,Cyber Crime,2,Under investigation
+2020-05-28 10:00:00,2020,5,10,4,1,Ernakulam,10.0585577,76.282563,GRID_825,Recreational Park,Property Damage,2,Under investigation
+2020-05-28 16:00:00,2020,5,16,4,2,Kannur,11.9026461,75.454055,GRID_604,Recreational Park,Narcotics/NDPS,5,Closed
+2020-05-28 23:00:00,2020,5,23,4,1,Ernakulam,10.0486762,76.2606276,GRID_884,Highway/Expressway,Cyber Crime,3,Charge Sheeted
+2020-05-29 05:00:00,2020,5,5,5,3,Kozhikode,11.2960991,75.7642374,GRID_535,Industrial Zone,Narcotics/NDPS,3,Under investigation
+2020-05-29 12:00:00,2020,5,12,5,1,Ernakulam,10.0793174,76.2842977,GRID_252,Public Transit Hub,Property Damage,4,Closed
+2020-05-29 18:00:00,2020,5,18,5,1,Ernakulam,10.1132918,76.3041529,GRID_1016,Highway/Expressway,Cyber Crime,1,Closed
+2020-05-30 01:00:00,2020,5,1,6,3,Kozhikode,11.2526932,75.7778666,GRID_968,Industrial Zone,Property Damage,3,Charge Sheeted
+2020-05-30 07:00:00,2020,5,7,6,5,Thrissur,10.6905604,76.4177971,GRID_852,Highway/Expressway,Cyber Crime,3,Under investigation
+2020-05-30 14:00:00,2020,5,14,6,4,Palakkad,10.8196334,76.4189295,GRID_662,Public Transit Hub,Property Damage,4,Closed
+2020-05-30 20:00:00,2020,5,20,6,4,Palakkad,10.7648611,76.4755314,GRID_588,Industrial Zone,Narcotics/NDPS,3,Charge Sheeted
+2020-05-31 03:00:00,2020,5,3,7,2,Kannur,11.9663435,75.4311653,GRID_994,Industrial Zone,Narcotics/NDPS,3,Charge Sheeted
+2020-05-31 09:00:00,2020,5,9,7,1,Ernakulam,10.0226441,76.3095146,GRID_203,Residential Area,Property Damage,2,Closed
+2020-05-31 16:00:00,2020,5,16,7,2,Kannur,11.9434742,75.3603862,GRID_1124,Highway/Expressway,Cyber Crime,2,Charge Sheeted
+2020-05-31 22:00:00,2020,5,22,7,4,Palakkad,10.7819589,76.4168789,GRID_1106,Highway/Expressway,Theft,4,Under investigation
+2020-06-01 05:00:00,2020,6,5,1,4,Palakkad,10.7994197,76.3748785,GRID_506,Educational Campus,Narcotics/NDPS,3,Charge Sheeted
+2020-06-01 11:00:00,2020,6,11,1,4,Palakkad,10.7788202,76.4369557,GRID_266,Public Transit Hub,Narcotics/NDPS,3,Under investigation
+2020-06-01 18:00:00,2020,6,18,1,5,Thrissur,10.7242326,76.2716736,GRID_608,Commercial Hub,Theft,2,Charge Sheeted
+2020-06-02 00:00:00,2020,6,0,2,1,Ernakulam,10.0527974,76.3273782,GRID_412,Residential Area,Property Damage,3,Charge Sheeted
+2020-06-02 07:00:00,2020,6,7,2,5,Thrissur,10.716066,76.3686278,GRID_862,Industrial Zone,Cyber Crime,3,Under investigation
+2020-06-02 13:00:00,2020,6,13,2,5,Thrissur,10.7276468,76.404898,GRID_780,Industrial Zone,Property Damage,4,Charge Sheeted
+2020-06-02 20:00:00,2020,6,20,2,3,Kozhikode,11.2469821,75.8590059,GRID_576,Industrial Zone,Traffic-related Accident,3,Under investigation
+2020-06-03 02:00:00,2020,6,2,3,5,Thrissur,10.7098256,76.2738705,GRID_172,Residential Area,Narcotics/NDPS,5,Under investigation
+2020-06-03 09:00:00,2020,6,9,3,1,Ernakulam,9.9693681,76.3001086,GRID_681,Industrial Zone,Traffic-related Accident,4,Charge Sheeted
+2020-06-03 15:00:00,2020,6,15,3,2,Kannur,11.9541876,75.4449217,GRID_361,Industrial Zone,Narcotics/NDPS,3,Under investigation
+2020-06-03 22:00:00,2020,6,22,3,5,Thrissur,10.7388615,76.3531084,GRID_344,Public Transit Hub,Narcotics/NDPS,3,Charge Sheeted
+2020-06-04 04:00:00,2020,6,4,4,1,Ernakulam,10.0304318,76.2776943,GRID_660,Recreational Park,Traffic-related Accident,5,Under investigation
+2020-06-04 11:00:00,2020,6,11,4,3,Kozhikode,11.2528193,75.8120823,GRID_1199,Recreational Park,Traffic-related Accident,3,Charge Sheeted
+2020-06-04 17:00:00,2020,6,17,4,3,Kozhikode,11.22886,75.7864734,GRID_274,Educational Campus,Property Damage,4,Closed
+2020-06-05 00:00:00,2020,6,0,5,4,Palakkad,10.7798225,76.4777061,GRID_208,Educational Campus,Traffic-related Accident,3,Charge Sheeted
+2020-06-05 06:00:00,2020,6,6,5,3,Kozhikode,11.3198348,75.8719736,GRID_282,Industrial Zone,Property Damage,3,Charge Sheeted
+2020-06-05 13:00:00,2020,6,13,5,5,Thrissur,10.7242565,76.3358246,GRID_291,Public Transit Hub,Property Damage,2,Closed
+2020-06-05 19:00:00,2020,6,19,5,5,Thrissur,10.7236177,76.4014173,GRID_164,Industrial Zone,Property Damage,2,Under investigation
+2020-06-06 02:00:00,2020,6,2,6,5,Thrissur,10.6718336,76.3337829,GRID_1062,Educational Campus,Narcotics/NDPS,5,Under investigation
+2020-06-06 08:00:00,2020,6,8,6,3,Kozhikode,11.3039802,75.80606,GRID_963,Residential Area,Narcotics/NDPS,3,Charge Sheeted
+2020-06-06 15:00:00,2020,6,15,6,5,Thrissur,10.7171872,76.3657985,GRID_468,Residential Area,Traffic-related Accident,3,Under investigation
+2020-06-06 21:00:00,2020,6,21,6,5,Thrissur,10.6784476,76.3252024,GRID_950,Commercial Hub,Narcotics/NDPS,5,Closed
+2020-06-07 04:00:00,2020,6,4,7,1,Ernakulam,10.0135218,76.2631436,GRID_142,Recreational Park,Traffic-related Accident,3,Under investigation
+2020-06-07 10:00:00,2020,6,10,7,4,Palakkad,10.7224192,76.4930715,GRID_587,Public Transit Hub,Narcotics/NDPS,3,Charge Sheeted
+2020-06-07 17:00:00,2020,6,17,7,4,Palakkad,10.7473071,76.4428926,GRID_177,Highway/Expressway,Cyber Crime,4,Charge Sheeted
+2020-06-07 23:00:00,2020,6,23,7,4,Palakkad,10.7498726,76.5105087,GRID_925,Recreational Park,Cyber Crime,3,Under investigation
+2020-06-08 06:00:00,2020,6,6,1,4,Palakkad,10.7459297,76.4287451,GRID_773,Highway/Expressway,Traffic-related Accident,1,Charge Sheeted
+2020-06-08 12:00:00,2020,6,12,1,4,Palakkad,10.807273,76.4947094,GRID_800,Commercial Hub,Narcotics/NDPS,2,Under investigation
+2020-06-08 19:00:00,2020,6,19,1,4,Palakkad,10.7386101,76.4884229,GRID_858,Commercial Hub,Narcotics/NDPS,2,Charge Sheeted
+2020-06-09 01:00:00,2020,6,1,2,1,Ernakulam,10.0333099,76.3179563,GRID_827,Industrial Zone,Property Damage,2,Under investigation
+2020-06-09 08:00:00,2020,6,8,2,4,Palakkad,10.733348,76.3728962,GRID_1024,Educational Campus,Theft,3,Closed
+2020-06-09 14:00:00,2020,6,14,2,5,Thrissur,10.7327939,76.349363,GRID_1001,Commercial Hub,Traffic-related Accident,2,Closed
+2020-06-09 21:00:00,2020,6,21,2,3,Kozhikode,11.2636851,75.847541,GRID_988,Commercial Hub,Theft,1,Under investigation
+2020-06-10 03:00:00,2020,6,3,3,5,Thrissur,10.7365513,76.2886035,GRID_1092,Highway/Expressway,Theft,2,Under investigation
+2020-06-10 10:00:00,2020,6,10,3,1,Ernakulam,10.057636,76.2762425,GRID_438,Educational Campus,Traffic-related Accident,1,Charge Sheeted
+2020-06-10 16:00:00,2020,6,16,3,4,Palakkad,10.7951375,76.4651128,GRID_292,Commercial Hub,Narcotics/NDPS,3,Under investigation
+2020-06-10 23:00:00,2020,6,23,3,4,Palakkad,10.8156615,76.3710333,GRID_382,Recreational Park,Traffic-related Accident,4,Closed
+2020-06-11 05:00:00,2020,6,5,4,4,Palakkad,10.7257055,76.4051499,GRID_489,Commercial Hub,Theft,3,Charge Sheeted
+2020-06-11 12:00:00,2020,6,12,4,4,Palakkad,10.7461706,76.3995166,GRID_1099,Educational Campus,Narcotics/NDPS,2,Under investigation
+2020-06-11 18:00:00,2020,6,18,4,5,Thrissur,10.7506255,76.3049183,GRID_624,Industrial Zone,Cyber Crime,1,Closed
+2020-06-12 01:00:00,2020,6,1,5,4,Palakkad,10.747195,76.4815037,GRID_758,Public Transit Hub,Traffic-related Accident,2,Charge Sheeted
+2020-06-12 07:00:00,2020,6,7,5,4,Palakkad,10.764974,76.4842737,GRID_815,Educational Campus,Traffic-related Accident,3,Closed
+2020-06-12 14:00:00,2020,6,14,5,4,Palakkad,10.7265366,76.4380114,GRID_990,Highway/Expressway,Narcotics/NDPS,2,Closed
+2020-06-12 20:00:00,2020,6,20,5,5,Thrissur,10.6633614,76.2712776,GRID_551,Public Transit Hub,Cyber Crime,3,Under investigation
+2020-06-13 03:00:00,2020,6,3,6,4,Palakkad,10.8106437,76.3822793,GRID_527,Recreational Park,Cyber Crime,2,Under investigation
+2020-06-13 09:00:00,2020,6,9,6,5,Thrissur,10.7132421,76.3339972,GRID_1145,Residential Area,Narcotics/NDPS,4,Closed
+2020-06-13 16:00:00,2020,6,16,6,1,Ernakulam,10.0155749,76.36798,GRID_982,Educational Campus,Property Damage,2,Closed
+2020-06-13 22:00:00,2020,6,22,6,1,Ernakulam,9.9634917,76.3396548,GRID_412,Industrial Zone,Traffic-related Accident,2,Under investigation
+2020-06-14 05:00:00,2020,6,5,7,4,Palakkad,10.8163394,76.4496269,GRID_939,Highway/Expressway,Traffic-related Accident,4,Closed
+2020-06-14 11:00:00,2020,6,11,7,2,Kannur,11.9724187,75.3662709,GRID_618,Recreational Park,Theft,2,Charge Sheeted
+2020-06-14 18:00:00,2020,6,18,7,1,Ernakulam,10.0270069,76.2912189,GRID_474,Public Transit Hub,Narcotics/NDPS,1,Under investigation
+2020-06-15 00:00:00,2020,6,0,1,4,Palakkad,10.7930821,76.5170075,GRID_550,Recreational Park,Theft,3,Closed
+2020-06-15 07:00:00,2020,6,7,1,3,Kozhikode,11.245653,75.838501,GRID_1114,Educational Campus,Theft,3,Under investigation
+2020-06-15 13:00:00,2020,6,13,1,3,Kozhikode,11.2398098,75.8278396,GRID_694,Commercial Hub,Cyber Crime,3,Closed
+2020-06-15 20:00:00,2020,6,20,1,4,Palakkad,10.7663932,76.5155209,GRID_599,Industrial Zone,Traffic-related Accident,2,Under investigation
+2020-06-16 02:00:00,2020,6,2,2,5,Thrissur,10.7208527,76.3229111,GRID_563,Educational Campus,Theft,2,Charge Sheeted
+2020-06-16 09:00:00,2020,6,9,2,2,Kannur,11.8736915,75.3781496,GRID_212,Residential Area,Cyber Crime,2,Under investigation
+2020-06-16 15:00:00,2020,6,15,2,2,Kannur,11.887038,75.390116,GRID_1135,Educational Campus,Narcotics/NDPS,1,Charge Sheeted
+2020-06-16 22:00:00,2020,6,22,2,4,Palakkad,10.8050616,76.4497956,GRID_430,Public Transit Hub,Theft,4,Charge Sheeted
+2020-06-17 04:00:00,2020,6,4,3,4,Palakkad,10.7723391,76.378363,GRID_239,Public Transit Hub,Traffic-related Accident,3,Under investigation
+2020-06-17 11:00:00,2020,6,11,3,5,Thrissur,10.746014,76.3901066,GRID_1001,Educational Campus,Theft,2,Charge Sheeted
+2020-06-17 17:00:00,2020,6,17,3,5,Thrissur,10.6667668,76.3874103,GRID_616,Public Transit Hub,Narcotics/NDPS,3,Charge Sheeted
+2020-06-18 00:00:00,2020,6,0,4,1,Ernakulam,10.0469661,76.269807,GRID_668,Commercial Hub,Theft,2,Under investigation
+2020-06-18 06:00:00,2020,6,6,4,5,Thrissur,10.7058301,76.3472453,GRID_945,Recreational Park,Traffic-related Accident,4,Closed
+2020-06-18 13:00:00,2020,6,13,4,5,Thrissur,10.6765775,76.4302257,GRID_1192,Educational Campus,Cyber Crime,1,Under investigation
+2020-06-18 19:00:00,2020,6,19,4,2,Kannur,11.961997,75.4402827,GRID_217,Industrial Zone,Traffic-related Accident,1,Charge Sheeted
+2020-06-19 02:00:00,2020,6,2,5,4,Palakkad,10.7662296,76.4258825,GRID_987,Commercial Hub,Cyber Crime,3,Charge Sheeted
+2020-06-19 08:00:00,2020,6,8,5,5,Thrissur,10.7250973,76.3581777,GRID_1182,Recreational Park,Property Damage,3,Charge Sheeted
+2020-06-19 15:00:00,2020,6,15,5,2,Kannur,11.8674728,75.4215003,GRID_1156,Industrial Zone,Traffic-related Accident,3,Under investigation
+2020-06-19 21:00:00,2020,6,21,5,3,Kozhikode,11.3006404,75.8151088,GRID_149,Industrial Zone,Traffic-related Accident,1,Charge Sheeted
+2020-06-20 04:00:00,2020,6,4,6,1,Ernakulam,9.9683131,76.3543534,GRID_118,Industrial Zone,Narcotics/NDPS,2,Charge Sheeted
+2020-06-20 10:00:00,2020,6,10,6,1,Ernakulam,9.9922182,76.2910345,GRID_825,Recreational Park,Theft,2,Charge Sheeted
+2020-06-20 17:00:00,2020,6,17,6,4,Palakkad,10.7364706,76.4128344,GRID_296,Commercial Hub,Cyber Crime,2,Closed
+2020-06-20 23:00:00,2020,6,23,6,5,Thrissur,10.7356752,76.3534895,GRID_658,Industrial Zone,Cyber Crime,4,Charge Sheeted
+2020-06-21 06:00:00,2020,6,6,7,1,Ernakulam,9.992781,76.3653396,GRID_551,Industrial Zone,Narcotics/NDPS,1,Under investigation
+2020-06-21 12:00:00,2020,6,12,7,4,Palakkad,10.8079582,76.4992925,GRID_388,Highway/Expressway,Narcotics/NDPS,2,Under investigation
+2020-06-21 19:00:00,2020,6,19,7,5,Thrissur,10.6838796,76.3412231,GRID_490,Educational Campus,Theft,3,Under investigation
+2020-06-22 01:00:00,2020,6,1,1,5,Thrissur,10.758499,76.3989622,GRID_314,Recreational Park,Theft,2,Under investigation
+2020-06-22 08:00:00,2020,6,8,1,4,Palakkad,10.7227167,76.3704327,GRID_314,Recreational Park,Traffic-related Accident,3,Under investigation
+2020-06-22 14:00:00,2020,6,14,1,5,Thrissur,10.7063931,76.4236596,GRID_227,Public Transit Hub,Property Damage,4,Under investigation
+2020-06-22 21:00:00,2020,6,21,1,4,Palakkad,10.7738702,76.43965,GRID_859,Recreational Park,Theft,1,Under investigation
+2020-06-23 03:00:00,2020,6,3,2,5,Thrissur,10.6705474,76.3782204,GRID_503,Commercial Hub,Narcotics/NDPS,5,Under investigation
+2020-06-23 10:00:00,2020,6,10,2,4,Palakkad,10.8022103,76.4208672,GRID_1152,Recreational Park,Theft,3,Under investigation
+2020-06-23 16:00:00,2020,6,16,2,3,Kozhikode,11.2975612,75.8757372,GRID_437,Highway/Expressway,Cyber Crime,2,Under investigation
+2020-06-23 23:00:00,2020,6,23,2,1,Ernakulam,9.9926026,76.3227996,GRID_930,Educational Campus,Property Damage,2,Under investigation
+2020-06-24 05:00:00,2020,6,5,3,1,Ernakulam,10.0059421,76.3551425,GRID_813,Educational Campus,Traffic-related Accident,2,Charge Sheeted
+2020-06-24 12:00:00,2020,6,12,3,2,Kannur,11.9293112,75.4361499,GRID_460,Recreational Park,Cyber Crime,3,Charge Sheeted
+2020-06-24 18:00:00,2020,6,18,3,5,Thrissur,10.7397914,76.3312747,GRID_668,Industrial Zone,Cyber Crime,4,Under investigation
+2020-06-25 01:00:00,2020,6,1,4,4,Palakkad,10.811509,76.4452846,GRID_317,Residential Area,Property Damage,4,Charge Sheeted
+2020-06-25 07:00:00,2020,6,7,4,1,Ernakulam,9.9852728,76.3435079,GRID_301,Residential Area,Traffic-related Accident,5,Under investigation
+2020-06-25 14:00:00,2020,6,14,4,1,Ernakulam,10.0869218,76.2980114,GRID_116,Industrial Zone,Narcotics/NDPS,4,Under investigation
+2020-06-25 20:00:00,2020,6,20,4,2,Kannur,11.9628615,75.4687372,GRID_421,Industrial Zone,Traffic-related Accident,3,Under investigation
+2020-06-26 03:00:00,2020,6,3,5,5,Thrissur,10.6876904,76.4370339,GRID_617,Industrial Zone,Theft,2,Charge Sheeted
+2020-06-26 09:00:00,2020,6,9,5,4,Palakkad,10.7340712,76.3923225,GRID_780,Commercial Hub,Cyber Crime,3,Charge Sheeted
+2020-06-26 16:00:00,2020,6,16,5,5,Thrissur,10.6784225,76.4209181,GRID_524,Residential Area,Theft,1,Under investigation
+2020-06-26 22:00:00,2020,6,22,5,5,Thrissur,10.7254293,76.2873788,GRID_1118,Industrial Zone,Narcotics/NDPS,3,Under investigation
+2020-06-27 05:00:00,2020,6,5,6,1,Ernakulam,10.0304517,76.3338358,GRID_486,Commercial Hub,Theft,2,Closed
+2020-06-27 11:00:00,2020,6,11,6,1,Ernakulam,9.9733543,76.36589,GRID_877,Public Transit Hub,Traffic-related Accident,1,Under investigation
+2020-06-27 18:00:00,2020,6,18,6,5,Thrissur,10.7403604,76.3509372,GRID_197,Commercial Hub,Theft,1,Under investigation
+2020-06-28 00:00:00,2020,6,0,7,3,Kozhikode,11.3167127,75.8101313,GRID_307,Residential Area,Narcotics/NDPS,2,Closed
+2020-06-28 07:00:00,2020,6,7,7,1,Ernakulam,10.1174577,76.3401504,GRID_685,Recreational Park,Narcotics/NDPS,3,Closed
+2020-06-28 13:00:00,2020,6,13,7,4,Palakkad,10.7834671,76.3865528,GRID_265,Public Transit Hub,Narcotics/NDPS,2,Charge Sheeted
+2020-06-28 20:00:00,2020,6,20,7,4,Palakkad,10.8081928,76.4283984,GRID_121,Residential Area,Traffic-related Accident,3,Charge Sheeted
+2020-06-29 02:00:00,2020,6,2,1,4,Palakkad,10.7362233,76.3620172,GRID_253,Commercial Hub,Narcotics/NDPS,2,Under investigation
+2020-06-29 09:00:00,2020,6,9,1,4,Palakkad,10.7759756,76.4443839,GRID_318,Highway/Expressway,Cyber Crime,3,Under investigation
+2020-06-29 15:00:00,2020,6,15,1,4,Palakkad,10.7919354,76.5024413,GRID_768,Educational Campus,Narcotics/NDPS,2,Charge Sheeted
+2020-06-29 22:00:00,2020,6,22,1,4,Palakkad,10.7279407,76.4770394,GRID_329,Residential Area,Theft,1,Under investigation
+2020-06-30 04:00:00,2020,6,4,2,5,Thrissur,10.6787412,76.4144719,GRID_119,Industrial Zone,Theft,3,Charge Sheeted
+2020-06-30 11:00:00,2020,6,11,2,4,Palakkad,10.8019064,76.446527,GRID_652,Commercial Hub,Theft,2,Closed
+2020-06-30 17:00:00,2020,6,17,2,3,Kozhikode,11.2910243,75.797722,GRID_1049,Industrial Zone,Traffic-related Accident,1,Closed
+2020-07-01 00:00:00,2020,7,0,3,4,Palakkad,10.7671168,76.4914619,GRID_247,Industrial Zone,Theft,2,Under investigation
+2020-07-01 06:00:00,2020,7,6,3,1,Ernakulam,10.0334824,76.3029358,GRID_502,Industrial Zone,Traffic-related Accident,1,Charge Sheeted
+2020-07-01 13:00:00,2020,7,13,3,5,Thrissur,10.7094212,76.4090849,GRID_695,Industrial Zone,Traffic-related Accident,3,Charge Sheeted
+2020-07-01 19:00:00,2020,7,19,3,3,Kozhikode,11.2535208,75.7808514,GRID_466,Industrial Zone,Narcotics/NDPS,2,Closed
+2020-07-02 02:00:00,2020,7,2,4,4,Palakkad,10.7912014,76.4921565,GRID_901,Public Transit Hub,Cyber Crime,3,Under investigation
+2020-07-02 08:00:00,2020,7,8,4,5,Thrissur,10.6700637,76.3031773,GRID_1017,Residential Area,Narcotics/NDPS,4,Under investigation
+2020-07-02 15:00:00,2020,7,15,4,3,Kozhikode,11.2341972,75.801753,GRID_172,Residential Area,Narcotics/NDPS,2,Under investigation
+2020-07-02 21:00:00,2020,7,21,4,3,Kozhikode,11.2650351,75.8498592,GRID_580,Educational Campus,Traffic-related Accident,5,Under investigation
+2020-07-03 04:00:00,2020,7,4,5,2,Kannur,11.9381377,75.4345114,GRID_659,Commercial Hub,Traffic-related Accident,3,Under investigation
+2020-07-03 10:00:00,2020,7,10,5,5,Thrissur,10.6952375,76.4114606,GRID_844,Highway/Expressway,Theft,3,Charge Sheeted
+2020-07-03 17:00:00,2020,7,17,5,4,Palakkad,10.7671287,76.5166568,GRID_199,Public Transit Hub,Theft,3,Charge Sheeted
+2020-07-03 23:00:00,2020,7,23,5,1,Ernakulam,10.0614627,76.2751518,GRID_1182,Commercial Hub,Narcotics/NDPS,3,Under investigation
+2020-07-04 06:00:00,2020,7,6,6,3,Kozhikode,11.2876178,75.7990125,GRID_607,Public Transit Hub,Property Damage,3,Charge Sheeted
+2020-07-04 12:00:00,2020,7,12,6,1,Ernakulam,10.0698124,76.2683569,GRID_357,Residential Area,Property Damage,2,Under investigation
+2020-07-04 19:00:00,2020,7,19,6,1,Ernakulam,9.987981,76.3626885,GRID_512,Industrial Zone,Theft,1,Closed
+2020-07-05 01:00:00,2020,7,1,7,5,Thrissur,10.682718,76.4106674,GRID_1188,Educational Campus,Property Damage,1,Closed
+2020-07-05 08:00:00,2020,7,8,7,2,Kannur,11.8935131,75.4371458,GRID_694,Educational Campus,Theft,2,Closed
+2020-07-05 14:00:00,2020,7,14,7,4,Palakkad,10.7894151,76.4420248,GRID_365,Recreational Park,Traffic-related Accident,2,Closed
+2020-07-05 21:00:00,2020,7,21,7,5,Thrissur,10.6905311,76.298276,GRID_920,Highway/Expressway,Narcotics/NDPS,2,Under investigation
+2020-07-06 03:00:00,2020,7,3,1,5,Thrissur,10.6633189,76.3147104,GRID_761,Educational Campus,Cyber Crime,1,Under investigation
+2020-07-06 10:00:00,2020,7,10,1,1,Ernakulam,10.064506,76.3725966,GRID_1046,Industrial Zone,Narcotics/NDPS,3,Charge Sheeted
+2020-07-06 16:00:00,2020,7,16,1,4,Palakkad,10.8071204,76.4825704,GRID_659,Residential Area,Theft,4,Closed
+2020-07-06 23:00:00,2020,7,23,1,4,Palakkad,10.7988447,76.4663976,GRID_1016,Highway/Expressway,Theft,5,Under investigation
+2020-07-07 05:00:00,2020,7,5,2,1,Ernakulam,10.0016459,76.3688634,GRID_990,Commercial Hub,Narcotics/NDPS,2,Under investigation
+2020-07-07 12:00:00,2020,7,12,2,5,Thrissur,10.7270732,76.3608793,GRID_967,Industrial Zone,Theft,3,Closed
+2020-07-07 18:00:00,2020,7,18,2,1,Ernakulam,9.9777583,76.3136467,GRID_709,Industrial Zone,Property Damage,4,Under investigation
+2020-07-08 01:00:00,2020,7,1,3,4,Palakkad,10.7660358,76.4983302,GRID_513,Educational Campus,Property Damage,2,Charge Sheeted
+2020-07-08 07:00:00,2020,7,7,3,5,Thrissur,10.7146648,76.3284721,GRID_124,Highway/Expressway,Theft,2,Charge Sheeted
+2020-07-08 14:00:00,2020,7,14,3,1,Ernakulam,10.1162881,76.2732865,GRID_383,Residential Area,Theft,5,Under investigation
+2020-07-08 20:00:00,2020,7,20,3,4,Palakkad,10.7622548,76.3667239,GRID_980,Recreational Park,Property Damage,3,Under investigation
+2020-07-09 03:00:00,2020,7,3,4,5,Thrissur,10.7339904,76.4252538,GRID_400,Public Transit Hub,Theft,2,Charge Sheeted
+2020-07-09 09:00:00,2020,7,9,4,4,Palakkad,10.7480037,76.4973347,GRID_1191,Public Transit Hub,Theft,1,Charge Sheeted
+2020-07-09 16:00:00,2020,7,16,4,4,Palakkad,10.7492218,76.5057232,GRID_1130,Residential Area,Narcotics/NDPS,1,Closed
+2020-07-09 22:00:00,2020,7,22,4,3,Kozhikode,11.2953962,75.8565888,GRID_916,Residential Area,Cyber Crime,4,Under investigation
+2020-07-10 05:00:00,2020,7,5,5,5,Thrissur,10.6618007,76.4333059,GRID_182,Public Transit Hub,Property Damage,3,Under investigation
+2020-07-10 11:00:00,2020,7,11,5,2,Kannur,11.9472005,75.3965701,GRID_1196,Recreational Park,Narcotics/NDPS,2,Charge Sheeted
+2020-07-10 18:00:00,2020,7,18,5,5,Thrissur,10.7429395,76.3106738,GRID_145,Highway/Expressway,Cyber Crime,1,Charge Sheeted
+2020-07-11 00:00:00,2020,7,0,6,1,Ernakulam,10.0996406,76.2735096,GRID_717,Public Transit Hub,Theft,3,Under investigation
+2020-07-11 07:00:00,2020,7,7,6,2,Kannur,11.9444423,75.4248838,GRID_1027,Residential Area,Theft,3,Charge Sheeted
+2020-07-11 13:00:00,2020,7,13,6,1,Ernakulam,9.9754455,76.2890273,GRID_361,Educational Campus,Narcotics/NDPS,2,Under investigation
+2020-07-11 20:00:00,2020,7,20,6,5,Thrissur,10.6612404,76.3443782,GRID_275,Commercial Hub,Theft,4,Under investigation
+2020-07-12 02:00:00,2020,7,2,7,5,Thrissur,10.6901265,76.3677043,GRID_756,Recreational Park,Traffic-related Accident,1,Under investigation
+2020-07-12 09:00:00,2020,7,9,7,5,Thrissur,10.6897238,76.3139854,GRID_941,Industrial Zone,Narcotics/NDPS,2,Under investigation
+2020-07-12 15:00:00,2020,7,15,7,3,Kozhikode,11.2943193,75.7657771,GRID_469,Recreational Park,Cyber Crime,3,Charge Sheeted
+2020-07-12 22:00:00,2020,7,22,7,2,Kannur,11.9683474,75.4622717,GRID_153,Educational Campus,Narcotics/NDPS,2,Charge Sheeted
+2020-07-13 04:00:00,2020,7,4,1,3,Kozhikode,11.2867805,75.8311866,GRID_789,Educational Campus,Property Damage,4,Charge Sheeted
+2020-07-13 11:00:00,2020,7,11,1,4,Palakkad,10.8092302,76.3896528,GRID_466,Industrial Zone,Narcotics/NDPS,3,Closed
+2020-07-13 17:00:00,2020,7,17,1,2,Kannur,11.8694763,75.3887412,GRID_743,Residential Area,Theft,4,Under investigation
+2020-07-14 00:00:00,2020,7,0,2,3,Kozhikode,11.2994578,75.7641604,GRID_478,Public Transit Hub,Theft,1,Under investigation
+2020-07-14 06:00:00,2020,7,6,2,4,Palakkad,10.7782807,76.51927,GRID_172,Highway/Expressway,Traffic-related Accident,1,Under investigation
+2020-07-14 13:00:00,2020,7,13,2,4,Palakkad,10.8055696,76.4434313,GRID_1014,Recreational Park,Traffic-related Accident,2,Under investigation
+2020-07-14 19:00:00,2020,7,19,2,2,Kannur,11.8676369,75.4597648,GRID_959,Industrial Zone,Traffic-related Accident,3,Charge Sheeted
+2020-07-15 02:00:00,2020,7,2,3,1,Ernakulam,10.0558366,76.273792,GRID_142,Recreational Park,Cyber Crime,3,Charge Sheeted
+2020-07-15 08:00:00,2020,7,8,3,2,Kannur,11.8712629,75.4691552,GRID_476,Educational Campus,Traffic-related Accident,4,Charge Sheeted
+2020-07-15 15:00:00,2020,7,15,3,4,Palakkad,10.78692,76.4926859,GRID_1164,Public Transit Hub,Cyber Crime,3,Under investigation
+2020-07-15 21:00:00,2020,7,21,3,2,Kannur,11.9654775,75.4286127,GRID_269,Recreational Park,Traffic-related Accident,5,Under investigation
+2020-07-16 04:00:00,2020,7,4,4,4,Palakkad,10.7717446,76.4288684,GRID_311,Highway/Expressway,Cyber Crime,3,Charge Sheeted
+2020-07-16 10:00:00,2020,7,10,4,4,Palakkad,10.7516947,76.4295354,GRID_138,Educational Campus,Narcotics/NDPS,2,Under investigation
+2020-07-16 17:00:00,2020,7,17,4,4,Palakkad,10.797388,76.4563077,GRID_468,Highway/Expressway,Narcotics/NDPS,2,Charge Sheeted
+2020-07-16 23:00:00,2020,7,23,4,2,Kannur,11.9671028,75.4132056,GRID_856,Public Transit Hub,Theft,3,Closed
+2020-07-17 06:00:00,2020,7,6,5,1,Ernakulam,10.0571343,76.3357569,GRID_250,Recreational Park,Cyber Crime,1,Under investigation
+2020-07-17 12:00:00,2020,7,12,5,1,Ernakulam,10.0546715,76.3443161,GRID_1170,Commercial Hub,Property Damage,1,Charge Sheeted
+2020-07-17 19:00:00,2020,7,19,5,5,Thrissur,10.6837433,76.3522255,GRID_1123,Recreational Park,Theft,3,Charge Sheeted
+2020-07-18 01:00:00,2020,7,1,6,3,Kozhikode,11.2304225,75.8061414,GRID_836,Public Transit Hub,Narcotics/NDPS,4,Under investigation
+2020-07-18 08:00:00,2020,7,8,6,5,Thrissur,10.7087667,76.3774004,GRID_168,Recreational Park,Cyber Crime,1,Charge Sheeted
+2020-07-18 14:00:00,2020,7,14,6,2,Kannur,11.9740637,75.4320781,GRID_398,Industrial Zone,Traffic-related Accident,4,Under investigation
+2020-07-18 21:00:00,2020,7,21,6,5,Thrissur,10.7343594,76.3511279,GRID_1043,Recreational Park,Property Damage,4,Under investigation
+2020-07-19 03:00:00,2020,7,3,7,5,Thrissur,10.7234104,76.2727678,GRID_901,Residential Area,Narcotics/NDPS,2,Charge Sheeted
+2020-07-19 10:00:00,2020,7,10,7,5,Thrissur,10.6854392,76.3251336,GRID_395,Recreational Park,Theft,1,Closed
+2020-07-19 16:00:00,2020,7,16,7,5,Thrissur,10.7072493,76.2682168,GRID_302,Recreational Park,Cyber Crime,1,Under investigation
+2020-07-19 23:00:00,2020,7,23,7,2,Kannur,11.8768029,75.3932177,GRID_160,Highway/Expressway,Property Damage,3,Under investigation
+2020-07-20 05:00:00,2020,7,5,1,1,Ernakulam,10.1154452,76.2997616,GRID_1045,Commercial Hub,Cyber Crime,3,Closed
+2020-07-20 12:00:00,2020,7,12,1,4,Palakkad,10.7682041,76.3913756,GRID_1062,Highway/Expressway,Traffic-related Accident,4,Closed
+2020-07-20 18:00:00,2020,7,18,1,3,Kozhikode,11.281078,75.793682,GRID_430,Highway/Expressway,Theft,3,Charge Sheeted
+2020-07-21 01:00:00,2020,7,1,2,5,Thrissur,10.6806993,76.3529831,GRID_437,Educational Campus,Cyber Crime,1,Under investigation
+2020-07-21 07:00:00,2020,7,7,2,1,Ernakulam,9.9608809,76.2609197,GRID_738,Residential Area,Narcotics/NDPS,1,Closed
+2020-07-21 14:00:00,2020,7,14,2,3,Kozhikode,11.2419069,75.7644066,GRID_374,Highway/Expressway,Theft,3,Under investigation
+2020-07-21 20:00:00,2020,7,20,2,1,Ernakulam,9.9772841,76.3006633,GRID_418,Industrial Zone,Narcotics/NDPS,1,Charge Sheeted
+2020-07-22 03:00:00,2020,7,3,3,4,Palakkad,10.8002586,76.4515278,GRID_688,Public Transit Hub,Cyber Crime,2,Under investigation
+2020-07-22 09:00:00,2020,7,9,3,3,Kozhikode,11.2712668,75.7952187,GRID_603,Industrial Zone,Theft,2,Charge Sheeted
+2020-07-22 16:00:00,2020,7,16,3,1,Ernakulam,10.1090806,76.3076418,GRID_486,Public Transit Hub,Narcotics/NDPS,1,Under investigation
+2020-07-22 22:00:00,2020,7,22,3,5,Thrissur,10.6687093,76.371072,GRID_969,Recreational Park,Traffic-related Accident,2,Charge Sheeted
+2020-07-23 05:00:00,2020,7,5,4,4,Palakkad,10.7313838,76.4152357,GRID_932,Educational Campus,Traffic-related Accident,2,Under investigation
+2020-07-23 11:00:00,2020,7,11,4,2,Kannur,11.9208894,75.4649067,GRID_1114,Residential Area,Cyber Crime,2,Under investigation
+2020-07-23 18:00:00,2020,7,18,4,1,Ernakulam,10.0389675,76.3442711,GRID_702,Industrial Zone,Theft,1,Charge Sheeted
+2020-07-24 00:00:00,2020,7,0,5,1,Ernakulam,10.1188507,76.2757787,GRID_790,Residential Area,Property Damage,3,Closed
+2020-07-24 07:00:00,2020,7,7,5,3,Kozhikode,11.2474732,75.8073491,GRID_593,Industrial Zone,Theft,4,Closed
+2020-07-24 13:00:00,2020,7,13,5,2,Kannur,11.9106194,75.4093225,GRID_589,Recreational Park,Traffic-related Accident,2,Under investigation
+2020-07-24 20:00:00,2020,7,20,5,4,Palakkad,10.8107611,76.4742452,GRID_820,Public Transit Hub,Narcotics/NDPS,4,Charge Sheeted
+2020-07-25 02:00:00,2020,7,2,6,5,Thrissur,10.7207905,76.3156871,GRID_1196,Commercial Hub,Property Damage,2,Charge Sheeted
+2020-07-25 09:00:00,2020,7,9,6,4,Palakkad,10.802379,76.5128097,GRID_608,Educational Campus,Cyber Crime,3,Under investigation
+2020-07-25 15:00:00,2020,7,15,6,2,Kannur,11.9585438,75.3601878,GRID_489,Industrial Zone,Property Damage,4,Under investigation
+2020-07-25 22:00:00,2020,7,22,6,4,Palakkad,10.7836401,76.3681817,GRID_394,Industrial Zone,Cyber Crime,3,Charge Sheeted
+2020-07-26 04:00:00,2020,7,4,7,1,Ernakulam,10.0012172,76.267143,GRID_895,Recreational Park,Property Damage,4,Closed
+2020-07-26 11:00:00,2020,7,11,7,2,Kannur,11.9324555,75.4423908,GRID_964,Educational Campus,Cyber Crime,1,Charge Sheeted
+2020-07-26 17:00:00,2020,7,17,7,3,Kozhikode,11.2314488,75.8060607,GRID_648,Public Transit Hub,Cyber Crime,1,Charge Sheeted
+2020-07-27 00:00:00,2020,7,0,1,5,Thrissur,10.7056237,76.3264295,GRID_748,Public Transit Hub,Property Damage,4,Charge Sheeted
+2020-07-27 06:00:00,2020,7,6,1,2,Kannur,11.874523,75.4102737,GRID_667,Industrial Zone,Property Damage,2,Under investigation
+2020-07-27 13:00:00,2020,7,13,1,4,Palakkad,10.7951178,76.3713612,GRID_952,Commercial Hub,Cyber Crime,2,Charge Sheeted
+2020-07-27 19:00:00,2020,7,19,1,2,Kannur,11.8696216,75.4025726,GRID_869,Commercial Hub,Traffic-related Accident,3,Charge Sheeted
+2020-07-28 02:00:00,2020,7,2,2,4,Palakkad,10.8141726,76.4669716,GRID_544,Residential Area,Property Damage,4,Under investigation
+2020-07-28 08:00:00,2020,7,8,2,5,Thrissur,10.727867,76.3251456,GRID_462,Educational Campus,Theft,4,Closed
+2020-07-28 15:00:00,2020,7,15,2,2,Kannur,11.9312393,75.3612157,GRID_222,Educational Campus,Narcotics/NDPS,2,Under investigation
+2020-07-28 21:00:00,2020,7,21,2,4,Palakkad,10.7836096,76.5061259,GRID_841,Public Transit Hub,Cyber Crime,4,Closed
+2020-07-29 04:00:00,2020,7,4,3,4,Palakkad,10.7812573,76.4997918,GRID_779,Residential Area,Cyber Crime,1,Under investigation
+2020-07-29 10:00:00,2020,7,10,3,2,Kannur,11.9468768,75.374467,GRID_519,Recreational Park,Narcotics/NDPS,1,Under investigation
+2020-07-29 17:00:00,2020,7,17,3,2,Kannur,11.9682944,75.3679733,GRID_191,Educational Campus,Traffic-related Accident,3,Under investigation
+2020-07-29 23:00:00,2020,7,23,3,1,Ernakulam,10.0454348,76.2770565,GRID_162,Residential Area,Narcotics/NDPS,1,Charge Sheeted
+2020-07-30 06:00:00,2020,7,6,4,1,Ernakulam,9.9618731,76.3106441,GRID_611,Residential Area,Property Damage,2,Under investigation
+2020-07-30 12:00:00,2020,7,12,4,1,Ernakulam,10.0072065,76.3183201,GRID_871,Industrial Zone,Narcotics/NDPS,3,Charge Sheeted
+2020-07-30 19:00:00,2020,7,19,4,5,Thrissur,10.71772,76.267873,GRID_355,Public Transit Hub,Cyber Crime,2,Charge Sheeted
+2020-07-31 01:00:00,2020,7,1,5,5,Thrissur,10.6723003,76.3605556,GRID_234,Residential Area,Narcotics/NDPS,1,Charge Sheeted
+2020-07-31 08:00:00,2020,7,8,5,4,Palakkad,10.7543167,76.4766678,GRID_974,Commercial Hub,Theft,2,Under investigation
+2020-07-31 14:00:00,2020,7,14,5,3,Kozhikode,11.2852292,75.8614725,GRID_921,Commercial Hub,Property Damage,2,Charge Sheeted
+2020-07-31 21:00:00,2020,7,21,5,1,Ernakulam,10.0707989,76.3115917,GRID_187,Highway/Expressway,Narcotics/NDPS,2,Under investigation
+2020-08-01 03:00:00,2020,8,3,6,5,Thrissur,10.7272967,76.3095686,GRID_1087,Public Transit Hub,Cyber Crime,4,Charge Sheeted
+2020-08-01 10:00:00,2020,8,10,6,5,Thrissur,10.6906313,76.4020173,GRID_922,Industrial Zone,Property Damage,4,Under investigation
+2020-08-01 16:00:00,2020,8,16,6,3,Kozhikode,11.264642,75.8558056,GRID_1126,Recreational Park,Cyber Crime,2,Closed
+2020-08-01 23:00:00,2020,8,23,6,4,Palakkad,10.8022422,76.49721,GRID_1073,Highway/Expressway,Traffic-related Accident,4,Charge Sheeted
+2020-08-02 05:00:00,2020,8,5,7,1,Ernakulam,10.1066616,76.3117182,GRID_1033,Commercial Hub,Theft,1,Charge Sheeted
+2020-08-02 12:00:00,2020,8,12,7,1,Ernakulam,10.0110187,76.3298638,GRID_220,Industrial Zone,Traffic-related Accident,2,Charge Sheeted
+2020-08-02 18:00:00,2020,8,18,7,1,Ernakulam,10.0193876,76.3321289,GRID_1161,Highway/Expressway,Theft,4,Under investigation
+2020-08-03 01:00:00,2020,8,1,1,4,Palakkad,10.7905586,76.4701448,GRID_1107,Public Transit Hub,Narcotics/NDPS,2,Under investigation
+2020-08-03 07:00:00,2020,8,7,1,3,Kozhikode,11.2574553,75.7800232,GRID_1024,Industrial Zone,Property Damage,5,Closed
+2020-08-03 14:00:00,2020,8,14,1,3,Kozhikode,11.2630529,75.7771113,GRID_744,Public Transit Hub,Narcotics/NDPS,2,Closed
+2020-08-03 20:00:00,2020,8,20,1,1,Ernakulam,10.1024155,76.3015053,GRID_813,Residential Area,Theft,4,Under investigation
+2020-08-04 03:00:00,2020,8,3,2,1,Ernakulam,9.9847136,76.2630537,GRID_959,Educational Campus,Theft,2,Charge Sheeted
+2020-08-04 09:00:00,2020,8,9,2,3,Kozhikode,11.2845822,75.8364283,GRID_120,Residential Area,Theft,2,Charge Sheeted
